@@ -1,0 +1,11 @@
+{
+  "loginMessageLike": { "message": "To like {name}'s photo, login." },
+  "loginMessageAddToCollection": { "message": "To collect {name}'s photo, login." },
+  "loginMessageFollow": { "message": "To follow {name}, login." },
+  "loginMessageMessage": { "message": "To send a message to {name}, login." },
+  "loginMessageSubmitAPhoto": { "message": "To submit a photo, login." },
+  "loginMessageReport": {
+    "message": "To report this {contentType, select, Collection {collection} Photo {photo} User {user}}, login."
+  },
+  "loginMessageDefault": { "message": "Welcome back." }
+}

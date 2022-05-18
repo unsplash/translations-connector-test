@@ -1,0 +1,37 @@
+{
+  "loginMessageAddToCollection": {
+    "message": "Para obtener la foto de {name}, inicia sesión.",
+    "backend": "ts",
+    "description": null
+  },
+  "loginMessageDefault": {
+    "message": "Te damos la bienvenida.",
+    "backend": "ts",
+    "description": null
+  },
+  "loginMessageFollow": {
+    "message": "Para seguir a {name}, inicia sesión.",
+    "backend": "ts",
+    "description": null
+  },
+  "loginMessageLike": {
+    "message": "Para darle Me gusta a la foto de {name}, inicia sesión.",
+    "backend": "ts",
+    "description": null
+  },
+  "loginMessageMessage": {
+    "message": "Para enviar un mensaje a {name}, inicia sesión.",
+    "backend": "ts",
+    "description": null
+  },
+  "loginMessageReport": {
+    "message": "{contentType, select, Collection {Para reportar esta colección, inicia sesión.} Photo {Para reportar esta foto, inicia sesión.} User {Para reportar a este usuario, inicia sesión.}}",
+    "backend": "ts",
+    "description": null
+  },
+  "loginMessageSubmitAPhoto": {
+    "message": "Para enviar una foto, inicia sesión.",
+    "backend": "ts",
+    "description": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "metas_fallback_description": {
+    "message": "{type, select, overLimit {Descarga las imágenes perfectas de {query}. Encuentra más de {upperLimit, number} de las mejores imágenes gratuitas de {query}. Gratis para uso comercial ✓ No se requiere atribución ✓ Sin derechos de autor ✓} belowLimit {Descarga las imágenes perfectas de {query}. Encuentra más de {photoTotal, number} de las mejores imágenes gratuitas de {query}. Gratis para uso comercial ✓ No se requiere atribución ✓ Sin derechos de autor ✓}}",
+    "backend": "ts",
+    "description": null
+  },
+  "metas_fallback_title": {
+    "message": "Imágenes de {query} | Descarga imágenes gratuitas en Unsplash",
+    "backend": "ts",
+    "description": null
+  }
+}
