@@ -7,5 +7,5 @@
   "loginMessageReport": {
     "message": "To report this {contentType, select, Collection {collection} Photo {photo} User {user}}, login."
   },
-  "loginMessageDefault": { "message": "Welcome back." }
+  "loginMessageDefault": { "message": "Welcome back Neeraj }
 }
