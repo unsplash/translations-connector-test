@@ -1,0 +1,14 @@
+{
+  "apply": {
+    "message": "Apply"
+  },
+  "clear": {
+    "message": "Clear"
+  },
+  "close": {
+    "message": "Close"
+  },
+  "title": {
+    "message": "Filters"
+  }
+}

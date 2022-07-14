@@ -1,0 +1,26 @@
+{
+  "headTagsTitleAltDescriptionPart": {
+    "message": "{altDescription} photo",
+    "description": "E.g. \"dog photo\""
+  },
+  "headTagsTitleAltDescriptionPartSuffix": {
+    "message": "Free Image on Unsplash"
+  },
+  "headTagsTitleTagsPart": {
+    "message": "Free {tagTitle} Image on Unsplash",
+    "description": "E.g. \"Free Grey Image on Unsplash\""
+  },
+  "headTagsTitleFallback": {
+    "message": "HD photo by {userName}"
+  },
+
+  "headTagsDescription": {
+    "message": "Download this free HD photo{location, select, none {} city { in {city}} country { in {country}} cityAndCountry { in {city}, {country}}} by {userName} ({usernameParam})"
+  },
+  "headTagsDescriptionWithTag": {
+    "message": "Download this free HD photo of {tagSentence}{location, select, none {} city { in {city}} country { in {country}} cityAndCountry { in {city}, {country}}} by {userName} ({usernameParam})"
+  },
+
+  "headTagsSocialTitle": { "message": "Photo by {photographerName} on Unsplash" },
+  "headTagsSocialDescriptionSuffix": { "message": "Download this photo by {userName} on Unsplash" }
+}

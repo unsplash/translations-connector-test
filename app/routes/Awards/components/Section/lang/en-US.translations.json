@@ -1,0 +1,4 @@
+{
+  "judgeLabel": { "message": "Official Judge" },
+  "photoBy": { "message": "Photo by <userLink></userLink>", "backend": "tsx" }
+}

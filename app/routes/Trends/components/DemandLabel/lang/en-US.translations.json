@@ -1,0 +1,5 @@
+{
+  "lowDemand": { "message": "Low" },
+  "mediumDemand": { "message": "Medium" },
+  "highDemand": { "message": "High" }
+}

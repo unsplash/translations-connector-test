@@ -1,0 +1,6 @@
+{
+  "submitButtonTextWithPhotos": {
+    "message": "Submit {numberOfPhotos, plural, one {# photo} other {# photos}}"
+  },
+  "submitToTitle": { "message": "Submit to {title}" }
+}

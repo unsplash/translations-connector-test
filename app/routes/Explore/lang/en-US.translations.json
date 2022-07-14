@@ -1,0 +1,15 @@
+{
+  "headTagsTitle": { "message": "Explore Free Images, Wallpapers, & Backgrounds" },
+  "headTagsDescription": {
+    "message": "Download beautiful free pictures from the world’s largest library of quality images. HD {checkMarkEmoji} Free to use {checkMarkEmoji}"
+  },
+  "headerDescription": {
+    "message": "Unsplash has over a million free high-resolution photos. Explore these popular photo categories on Unsplash. All photos here are free to download and use under the <link>Unsplash License</link>.",
+    "backend": "tsx"
+  },
+  "exploreUnsplashPhotos": { "message": "Explore Unsplash photos" },
+  "browseThousandsOfFreeImagesOnUnsplash": {
+    "message": "Browse thousands of free images on Unsplash"
+  },
+  "freeHighResolutionUnsplashPhotos": { "message": "Free high-resolution Unsplash photos" }
+}

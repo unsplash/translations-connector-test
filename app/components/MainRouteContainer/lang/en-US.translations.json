@@ -1,0 +1,7 @@
+{
+  "flashMessageEmailNotConfirmed": {
+    "message": "Your email <email></email> has been confirmed.",
+    "backend": "tsx"
+  },
+  "headTagsTitle": { "message": "Beautiful Free Photo Community" }
+}

@@ -1,0 +1,11 @@
+{
+  "main": {
+    "message": "{total, plural, one {Your 1 photo is now being reviewed and may be shared in the <strong>{topicTitle}</strong> topic.} other {Your <strong>{total, number}</strong> photos are now being reviewed and may be shared in the <strong>{topicTitle}</strong> topic.}}",
+    "backend": "tsx"
+  },
+  "viewTopicButtonLabel": { "message": "View {topic}" },
+  "thankYou": {
+    "message": "On behalf of everyone, we thank you",
+    "backend": "tsx"
+  }
+}

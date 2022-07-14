@@ -1,0 +1,69 @@
+{
+  "subHeader": {
+    "message": "See how the Unsplash community has grown over time."
+  },
+  "subHeaderPartTwo": {
+    "message": "Interested in real-time data? Check out the <link>Unsplash Activity Map {northEastArrowEmoji}</link>.",
+    "backend": "tsx"
+  },
+  "header": {
+    "message": "Unsplash Stats"
+  },
+  "headTagsTitle": {
+    "message": "Statistics"
+  },
+  "activityHeader": {
+    "message": "Activity"
+  },
+  "allTimeViewsLabel": {
+    "message": "All-time views"
+  },
+  "viewsThisMonthLabel": {
+    "message": "Views this month"
+  },
+  "viewsPerSecondLabel": {
+    "message": "Views per second"
+  },
+  "allTimeDownloadsLabel": {
+    "message": "All-time downloads"
+  },
+  "downloadsThisMonthLabel": {
+    "message": "Downloads this month"
+  },
+  "downloadsPerSecondLabel": {
+    "message": "Downloads per second"
+  },
+  "communityHeader": {
+    "message": "Community"
+  },
+  "visualsAvailableLabel": {
+    "message": "Visuals available"
+  },
+  "uploadsThisMonthLabel": {
+    "message": "Uploads this month"
+  },
+  "contributorsLabel": {
+    "message": "Contributors"
+  },
+  "newContributorsThisMonthLabel": {
+    "message": "New contributors this month"
+  },
+  "developersHeader": {
+    "message": "Developers"
+  },
+  "allTimeApiRequestsLabel": {
+    "message": "All-time API requests"
+  },
+  "apiRequestsThisMonthLabel": {
+    "message": "API requests this month"
+  },
+  "apiApplicationsLabel": {
+    "message": "API applications"
+  },
+  "applicationsReleasedThisMonthLabel": {
+    "message": "Applications released this month"
+  },
+  "newDevelopersThisMonthLabel": {
+    "message": "New developers this month"
+  }
+}

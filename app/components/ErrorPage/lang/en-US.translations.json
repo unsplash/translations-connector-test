@@ -1,0 +1,4 @@
+{
+  "logoTitle": { "message": "Unsplash Home" },
+  "photoBy": { "message": "Photo by <username></username>", "backend": "tsx" }
+}

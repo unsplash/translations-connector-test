@@ -1,0 +1,8 @@
+{
+  "cancelCreation": {
+    "message": "Cancel"
+  },
+  "create": {
+    "message": "Create collection"
+  }
+}

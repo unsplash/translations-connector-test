@@ -1,0 +1,6 @@
+{
+  "descriptionPlaceholder": { "message": "Add a description (optional)" },
+  "cancel": { "message": "Cancel" },
+  "remove": { "message": "Remove" },
+  "addLocation": { "message": "Add location" }
+}

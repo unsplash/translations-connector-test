@@ -1,0 +1,12 @@
+{
+  "submitButtonTextWithFiles": {
+    "message": "Submit {numberOfPhotos, plural, one {# photo} other {# photos}}"
+  },
+  "submitButtonTextWithoutFiles": {
+    "message": "Submit to {topicTitle}"
+  },
+  "usableSubmitTitle": {
+    "message": "Submit to <topicTitle></topicTitle>",
+    "backend": "tsx"
+  }
+}

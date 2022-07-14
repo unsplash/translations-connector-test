@@ -1,0 +1,140 @@
+{
+  "headTagsTitle": { "message": "Unsplash for Education" },
+  "headTagsDescription": {
+    "message": "Learning made easy with over 3 million free images at your fingertips."
+  },
+  "newYorkPublicLibraryLogoImgAlt": { "message": "New York Public Library logo" },
+  "universityOfOregonLogoImgAlt": { "message": "University of Oregon logo" },
+  "nationalOceanicAndAtmosphericAssociationLogoImgAlt": {
+    "message": "National Oceanic and Atmospheric Association logo"
+  },
+  "ocadUniversityLogoImgAlt": { "message": "OCAD University logo" },
+  "nasaLogoImgAlt": { "message": "NASA logo" },
+  "unsplashForEducationImgAlt": { "message": "Unsplash for Education" },
+  "unsplashForEducationTweetsImgAlt": { "message": "Unsplash for Education tweets" },
+  "browseCollections": { "message": "Browse collections" },
+  "learnMore": { "message": "Learn more" },
+  "startBrowsing": { "message": "Start browsing" },
+  "workingOnAProjectParagraph": {
+    "message": "Working on a project? <link>Find the perfect image now</link>.",
+    "backend": "tsx"
+  },
+  "discoverOurCuratedCollectionsLinkLabel": {
+    "message": "Discover our curated collections"
+  },
+  "square1Title": {
+    "message": "Art"
+  },
+  "square2Title": {
+    "message": "Politics and Current Events"
+  },
+  "square3Title": {
+    "message": "Geography"
+  },
+  "square4Title": {
+    "message": "Maths and Science"
+  },
+  "square5Title": {
+    "message": "Health"
+  },
+  "square6Title": {
+    "message": "History"
+  },
+  "square7Title": {
+    "message": "Space"
+  },
+  "square8Title": {
+    "message": "Tech"
+  },
+  "mainHeadingLabel": {
+    "message": "Unsplash for Education"
+  },
+  "mainHeading": {
+    "message": "Inspiring images that power minds everywhere."
+  },
+  "mainCopy": {
+    "message": "Learning made easy with over 3 million free images at your fingertips."
+  },
+  "section2HeadingLabel": {
+    "message": "Calling all students"
+  },
+  "section2Heading": {
+    "message": "Make something awesome"
+  },
+  "section2Copy": {
+    "message": "Your next school project is in good hands with the help of our beautiful, curated library. Discover images of Astronomy for your next presentation, or simply source amazing visuals for your next Art project—no matter what you need, you’ll find the perfect image on Unsplash, guaranteed."
+  },
+  "section3HeadingLabel": {
+    "message": "A new tool for teaching"
+  },
+  "section3Heading": {
+    "message": "Bring your lessons to life"
+  },
+  "section3Copy": {
+    "message": "Put simply: Photography is a powerful tool. It has the ability to inform, inspire, involve. And by connecting young minds to an unlimited library of free visuals—you are enabling your students to learn, create, innovate."
+  },
+  "section4Heading": {
+    "message": "Unsplash will transform the way you work forever."
+  },
+  "section4Cat1Heading": {
+    "message": "Simple License"
+  },
+  "section4Cat1Copy": {
+    "message": "All images can be used for commercial and non-commercial purposes."
+  },
+  "section4Cat2Heading": {
+    "message": "High quality content"
+  },
+  "section4Cat2Copy": {
+    "message": "We manually review every image submitted and accept only the best so that you know you can count on them for anything."
+  },
+  "section4Cat3Heading": {
+    "message": "Content for everyone"
+  },
+  "section4Cat3Copy": {
+    "message": "Portraits of people, architecture shots and everything in between - we’ve got something for everyone."
+  },
+  "section4Cat4Heading": {
+    "message": "No sign ups required"
+  },
+  "section4Cat4Copye": {
+    "message": "Sign up for free, or don’t. Either way, you’ve got access to over three million free photos to download."
+  },
+  "section4Cat5Heading": {
+    "message": "Something new, everyday"
+  },
+  "section4Cat5Copy": {
+    "message": "We hand-select photos daily so you can find exactly what you’re looking for."
+  },
+  "section4Cat6Heading": {
+    "message": "It’s free, forever"
+  },
+  "section4Cat6Copy": {
+    "message": "Unsplash is fuelled by a generous community of creators who’ve gifted hundreds of thousands of their own photos for you to use."
+  },
+  "ctaSectionHeading": {
+    "message": "Find that photo you didn’t even know you needed."
+  },
+  "ctaSectionCopy": {
+    "message": "Say hello to our curated collections, built with you in mind. Now go explore and see for yourself."
+  },
+  "section5HeadingLabel": {
+    "message": "What they’re saying"
+  },
+  "section5Heading": {
+    "message": "Millions of people use Unsplash every day, in every way."
+  },
+  "section5Copy": {
+    "message": "Unsplash constantly moves creativity forward—with students, teachers, creators and writers from around the world using Unsplash images every month to create presentations, reports, graphics, blog posts, digital artwork, and lots more."
+  },
+  "moreQuestion": {
+    "message": "More questions? <link>Visit our FAQ</link>",
+    "backend": "tsx"
+  },
+  "section6Heading": {
+    "message": "Powering the internet’s visuals"
+  },
+  "section6Copy": {
+    "message": "How we started? The concept was simple. Unsplash was born from the pain we had in finding great, usable imagery. Today, Unsplash is a platform fuelled by a community who give their work for free in support of the community. Without them, none of this would be possible."
+  }
+}

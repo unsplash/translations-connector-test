@@ -1,0 +1,14 @@
+{
+  "order_label": {
+    "message": "Sort by",
+    "description": "Label for the sort search filter"
+  },
+  "order_newest": {
+    "message": "Newest",
+    "description": "Search order filter"
+  },
+  "order_relevance": {
+    "message": "Relevance",
+    "description": "Search order filter"
+  }
+}

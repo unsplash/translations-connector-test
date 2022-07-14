@@ -1,0 +1,63 @@
+{
+  "download": {
+    "message": "Download all brand assets ({fileFormat})"
+  },
+  "headTagsTitle": {
+    "message": "Unsplash Brand Assets and Guidelines"
+  },
+  "headTagsDescription": {
+    "message": "Download official Unsplash logos, graphics, product screenshots, team photos, and a usage guide to help determine when and how to utilize our brand."
+  },
+  "headerTitle": {
+    "message": "Unsplash brand assets and guidelines"
+  },
+  "headerDescription": {
+    "message": "Download official Unsplash logos, graphics, product screenshots, team photos, and a usage guide to help determine when and how to utilize our brand."
+  },
+  "headerSubDescription": {
+    "message": "For a full list of assets, please reference our <link>brand folder</link> .",
+    "backend": "tsx"
+  },
+  "headerDisclaimer": {
+    "message": "Please don’t use our name, logos, or screenshots in ways that may be confusing, misleading, or suggest our sponsorship, endorsement, or affiliation without our consent."
+  },
+  "pressKitHeader": {
+    "message": "Unsplash symbol and logotype"
+  },
+  "pressKitDescription": {
+    "message": "Download vector and .png versions of our symbol and logotype. Please respect our branding guidelines and do not alter the logo in any way—we like it the way it is."
+  },
+  "downloadSymbolAnchorLabel": {
+    "message": "Download symbol ({fileFormat})"
+  },
+  "downloadLogotypeAnchorLabel": {
+    "message": "Download logotype ({fileFormat})"
+  },
+  "primaryColorHeader": {
+    "message": "Primary colors"
+  },
+  "primaryColorDescription": {
+    "message": "Our color scheme primarily consists of neturals in order to give center-stage to your beautiful visuals. We ocasionally use secondary colors to emphasize certain actions."
+  },
+  "colorWhite": {
+    "message": "White"
+  },
+  "colorBlack": {
+    "message": "Black"
+  },
+  "colorGrey": {
+    "message": "Grey"
+  },
+  "typographyHeader": {
+    "message": "Typography"
+  },
+  "typographyDescription": {
+    "message": "We use system fonts in our apps in order to boost performance and create a familiar experience that matches your operating system. {macOsFont} on macOS and {windowsFont} on Windows. We use Inter for all print and marketing collaterals."
+  },
+  "newsHeader": {
+    "message": "In the news"
+  },
+  "readMore": {
+    "message": "Read more"
+  }
+}

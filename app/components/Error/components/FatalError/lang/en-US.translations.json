@@ -1,0 +1,9 @@
+{
+  "statusLink": { "message": "Unsplash Status" },
+  "reportButton": { "message": "Tell us what happened" },
+  "mainMessagePart1": { "message": "Unsplash is temporarily unavailable." },
+  "mainMessagePart2": { "message": "Our team has been notified and is looking into the issue." },
+  "backLink": { "message": "Back to Unsplash" },
+  "heading": { "message": "Something's broken" },
+  "headTagsTitle": { "message": "Something's broken" }
+}

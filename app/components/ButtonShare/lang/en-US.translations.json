@@ -1,0 +1,9 @@
+{
+  "linkTitle": {
+    "message": "{service, select, email {Share over email} other {Share on {service}}}",
+    "description": "Used on the title attribute for accessibility. Other is for example Twitter."
+  },
+  "email": {
+    "message": "Email"
+  }
+}

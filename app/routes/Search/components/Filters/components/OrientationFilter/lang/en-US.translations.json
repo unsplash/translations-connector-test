@@ -1,0 +1,22 @@
+{
+  "orientation_label": {
+    "message": "Orientation",
+    "description": "Search filter label for mobile"
+  },
+  "orientation_any": {
+    "message": "Any orientation",
+    "description": "Search orientation filter"
+  },
+  "orientation_landscape": {
+    "message": "Landscape",
+    "description": "Search orientation filter"
+  },
+  "orientation_portrait": {
+    "message": "Portrait",
+    "description": "Search orientation filter"
+  },
+  "orientation_square": {
+    "message": "Square",
+    "description": "Search orientation filter"
+  }
+}

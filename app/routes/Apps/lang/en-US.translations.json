@@ -1,0 +1,98 @@
+{
+  "mainHeaderLabel": {
+    "message": "Official apps from the team at Unsplash"
+  },
+  "mainHeader": {
+    "message": "Bringing you thousands of magical moments to your screens"
+  },
+  "iOSHeadingLabel": {
+    "message": "Your new mobile companion"
+  },
+  "iOSHeading": {
+    "message": "Unsplash for iOS"
+  },
+  "iOSBody": {
+    "message": "Unsplash for iOS is super focused on doing just one thing well: getting great images into creative applications quickly and easily."
+  },
+  "ratings": {
+    "message": "{n} Ratings",
+    "description": "{n} here will already be formatted using suffixes notations, such as 'K', 'M', etc"
+  },
+  "wallpaperHeadingLabel": {
+    "message": "A breathtaking photo for your desktop wallpaper, every day"
+  },
+  "wallpaperHeading": {
+    "message": "Unsplash Wallpapers"
+  },
+  "wallpaperBody": {
+    "message": "From space pics taken by NASA, to bewitching urban streetscapes, to astounding shots of nature taken by high-flying drones—find mesmerizing wallpaper for your Mac in seconds."
+  },
+  "wallpaperRatings": {
+    "message": "#50 in Utilities"
+  },
+  "instantHeadingLabel": {
+    "message": "Beautiful photos from Unsplash in your new tabs"
+  },
+  "instantHeading": {
+    "message": "Unsplash Instant for Chrome"
+  },
+  "instantBody": {
+    "message": "Each time you open a new tab, Unsplash Instant will show you a beautiful high-resolution photo from Unsplash — free to download and use however you want."
+  },
+  "instantRatings": {
+    "message": "{n, number}+ users"
+  },
+  "tvHeadingLabel": {
+    "message": "Beautiful photos from Unsplash on your Apple TV"
+  },
+  "tvHeading": {
+    "message": "Unsplash for Apple TV"
+  },
+  "tvBody": {
+    "message": "Unsplash for Apple TV is a simple slideshow that displays new high-resolution photos from the Unsplash community every 30 seconds, fullscreen on your TV."
+  },
+  "moreFromUnsplash": {
+    "message": "More from Unsplash"
+  },
+  "unsplashApiHeading": {
+    "message": "The Unsplash API"
+  },
+  "unsplashApiBody": {
+    "message": "It’s never been easier to make something awesome with Unsplash photos."
+  },
+  "learnMore": {
+    "message": "Learn more"
+  },
+  "wordpressHeading": {
+    "message": "Unsplash for WordPress"
+  },
+  "wordpressBody": {
+    "message": "Search for the perfect image for your content from Unsplash directly from your WordPress editor."
+  },
+  "figmaHeading": {
+    "message": "Unsplash for Figma"
+  },
+  "figmaBody": {
+    "message": "Bringing over 3 million images from Unsplash right into Figma."
+  },
+  "chromeHeading": {
+    "message": "Unsplash for Google Chrome"
+  },
+  "chromeBody": {
+    "message": "This official Unsplash for Chrome extension enables you to quickly search and insert beautiful photos into any web page."
+  },
+  "iOSPhotoPickerHeading": {
+    "message": "UnsplashPhotoPicker for iOS"
+  },
+  "iOSPhotoPickerBody": {
+    "message": "UnsplashPhotoPicker is an iOS UI component that allows you to quickly search the Unsplash library for free high-quality photos with just a few lines of code."
+  },
+  "androidPhotoPickerHeading": {
+    "message": "UnsplashPhotoPicker for Android"
+  },
+  "androidPhotoPickerBody": {
+    "message": "UnsplashPhotoPicker is an Android UI component that allows you to quickly search the Unsplash library for free high-quality photos with just a few lines of code."
+  },
+  "headTagsTitle": { "message": "Apps" },
+  "headTagsDescription": { "message": "Official apps from the team at Unsplash" }
+}

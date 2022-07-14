@@ -1,0 +1,12 @@
+{
+  "confirmation": { "message": "OK, got it" },
+  "limitWarningWithoutUnlimitedUploads": {
+    "message": "You can only upload {filesPerWeekLimit, number} photos a week."
+  },
+  "limitWarningUnlimitedUploads": {
+    "message": "You can only upload {filesPerBatchLimit, number} photos at a time."
+  },
+  "limitWarningIfUploadedMoreThan0": {
+    "message": "You've already uploaded {uploadedSoFar, number} this week."
+  }
+}

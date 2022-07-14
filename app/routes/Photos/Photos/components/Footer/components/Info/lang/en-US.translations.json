@@ -1,0 +1,34 @@
+{
+  "tabLabelViews": {
+    "message": "Views"
+  },
+  "tabLabelDownloads": {
+    "message": "Downloads"
+  },
+  "tooltipLabelViews": {
+    "message": "views"
+  },
+  "tooltipLabelDownloads": {
+    "message": "downloads"
+  },
+  "heading": {
+    "message": "Info"
+  },
+  "publishedDateAbsolute": {
+    "message": "Published on <absoluteDate></absoluteDate>",
+    "description": "E.g. \"Published on August 13, 2016\" (absolute time format)",
+    "backend": "tsx"
+  },
+  "publishedDateRelative": {
+    "message": "Published <relativeDate></relativeDate>",
+    "description": "E.g. \"Published 6h ago\" (relative time format)",
+    "backend": "tsx"
+  },
+  "error": {
+    "message": "Something went wrong:",
+    "description": "This appears on its own line above an error message."
+  },
+  "chunkError": {
+    "message": "Error when loading"
+  }
+}

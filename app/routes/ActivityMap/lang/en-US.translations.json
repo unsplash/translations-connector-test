@@ -1,0 +1,14 @@
+{
+  "headTagsTitle": {
+    "message": "Real-time Activity Map"
+  },
+  "downloadedLegendItem": {
+    "message": "Downloaded"
+  },
+  "collectedLegendItem": {
+    "message": "Collected"
+  },
+  "contributedLegendItem": {
+    "message": "Contributed"
+  }
+}

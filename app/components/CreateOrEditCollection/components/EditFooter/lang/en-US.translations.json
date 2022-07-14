@@ -1,0 +1,17 @@
+{
+  "cancel": {
+    "message": "Cancel"
+  },
+  "deleteCollection": {
+    "message": "Delete Collection"
+  },
+  "deleteMisc": {
+    "message": "Delete"
+  },
+  "save": {
+    "message": "Save"
+  },
+  "errorEditingCollection": { "message": "There was an error editing the collection." },
+  "errorDeletingCollection": { "message": "There was an error deleting the collection." },
+  "confirmationLabel": { "message": "Are you sure?" }
+}

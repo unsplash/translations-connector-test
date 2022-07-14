@@ -1,0 +1,8 @@
+{
+  "alt": {
+    "message": "Avatar of user {userName}"
+  },
+  "linkAlt": {
+    "message": "Go to {userName}'s profile"
+  }
+}

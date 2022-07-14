@@ -1,0 +1,12 @@
+{
+  "numberOfPhotos": {
+    "message": "{numberOfPhotosFormatted} {numberOfPhotos, plural, one {photo} other {photos}}",
+    "description": "Number of photos e.g. \"1 photo\" or \"2k photos\""
+  },
+  "errorRemoving": {
+    "message": "There was an error removing the photo from this collection: {error}"
+  },
+  "errorAdding": {
+    "message": "There was an error adding the photo to this collection: {error}"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "absoluteDateWithUTC": {
+    "message": "{formattedDate} (UTC)",
+    "description": "UTC means Coordinated Universal Time. Example: \"November 7, 2017 (UTC)\""
+  }
+}

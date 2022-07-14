@@ -1,0 +1,52 @@
+{
+  "editorial": {
+    "message": "Editorial"
+  },
+  "views": {
+    "message": "Views"
+  },
+  "downloads": {
+    "message": "Downloads"
+  },
+  "featuredIn": {
+    "message": "Featured in"
+  },
+  "featuredOn": {
+    "message": "Featured on"
+  },
+  "dualLicense": {
+    "message": "Dual License"
+  },
+  "dualLicenseContent": {
+    "message": "<publicDomainLink>Public Domain</publicDomainLink> & <unsplashLicenseLink>Unsplash License</unsplashLicenseLink>",
+    "backend": "tsx"
+  },
+  "licenseContent": {
+    "message": "Free to use under the <link>Unsplash License</link>",
+    "backend": "tsx"
+  },
+  "info": {
+    "message": "Info"
+  },
+  "publishedDateAbsolute": {
+    "message": "Published on <absoluteDate></absoluteDate>",
+    "description": "E.g. \"Published on August 13, 2016\" (absolute time format)",
+    "backend": "tsx"
+  },
+  "publishedDateRelative": {
+    "message": "Published <relativeDate></relativeDate>",
+    "description": "E.g. \"Published 6h ago\" (relative time format)",
+    "backend": "tsx"
+  },
+  "shareText": {
+    "message": "Thanks to {userName} @{username} for making this photo available freely on Unsplash {giftEmoji}"
+  },
+
+  "photoInfo": { "message": "Photo Info" },
+  "camera": { "message": "Camera" },
+  "lens": { "message": "Lens" },
+  "dimensions": { "message": "Dimensions" },
+  "licenseTooltip": {
+    "message": "You can use this photo for free under either the Unsplash License or the Public Domain License."
+  }
+}

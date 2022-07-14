@@ -1,0 +1,6 @@
+{
+  "readyToSubmit": { "message": "You're now ready to submit!" },
+  "selectMoreThan0Photos": {
+    "message": "{remaining, plural, one {Select up to # photo} other {Select up to # photos}}"
+  }
+}

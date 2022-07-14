@@ -1,0 +1,8 @@
+{
+  "fillFormLink": { "message": "Fill form" },
+  "warning": {
+    "message": "You must fill out your <abbr>DMCA</abbr> form to make this photo public.",
+    "backend": "tsx"
+  },
+  "whyFillForm": { "message": "Why do I need to fill out a form?" }
+}

@@ -1,0 +1,50 @@
+{
+  "oneUses": {
+    "message": "You have <link>1 new use</link> from {useName}.",
+    "backend": "tsx"
+  },
+  "twoUses": {
+    "message": "You have <link>new uses</link> from {useNameOne} and {useNameTwo}.",
+    "backend": "tsx"
+  },
+  "threeUses": {
+    "message": "You have <link>new uses</link> from {useNameOne}, {useNameTwo}, and more.",
+    "backend": "tsx"
+  },
+  "promotedPhotoPhrase": {
+    "backend": "tsx",
+    "message": "Your photo was promoted to the <link>Editorial</link> feed."
+  },
+  "userLikedYourPhoto": {
+    "message": "<user></user> liked your photo. {heartEmoji} ",
+    "backend": "tsx"
+  },
+  "userFollowedYou": {
+    "message": "<user></user> started following you. {profileEmoji} ",
+    "backend": "tsx"
+  },
+  "userAddedAPhotoToTheirCollection": {
+    "backend": "tsx",
+    "message": "<user></user> added your photo to <collectionEl></collectionEl>. {plusEmoji}"
+  },
+  "userAddedAPhotoToOneOfTheirCollection": {
+    "backend": "tsx",
+    "message": "<user></user> added your photo to one of their collections. {plusEmoji}"
+  },
+  "yourPhotoWasFeaturedInTopic": {
+    "message": "Your photo was featured in the <topicLink></topicLink> topic.",
+    "backend": "tsx"
+  },
+  "milestonePhotoDownloadsReached": {
+    "message": "Your photo reached <container>{n} downloads.</container>",
+    "backend": "tsx"
+  },
+  "milestoneUserDownloadsReached": {
+    "message": "You’ve reached <container>{n} downloads!</container>",
+    "backend": "tsx"
+  },
+  "milestoneUserViewsReached": {
+    "backend": "tsx",
+    "message": "You’ve reached <container>{n} views!</container>"
+  }
+}

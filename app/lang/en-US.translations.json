@@ -1,0 +1,11 @@
+{
+  "twitterShareTextCreditCollection": {
+    "message": "Check out this @unsplash collection curated by {twitterUserName}"
+  },
+  "twitterShareTextCreditPhoto": {
+    "message": "Thanks to {twitterUserName} for making this photo available freely on @unsplash {giftEmoji}"
+  },
+  "photoDownloadCreditText": {
+    "message": "Photo by <userLink></userLink> on <unsplashLink>Unsplash</unsplashLink>"
+  }
+}

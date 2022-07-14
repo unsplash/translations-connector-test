@@ -1,0 +1,18 @@
+{
+  "chooseFromYourLibrary": {
+    "message": "Choose from your library"
+  },
+  "uploaderNewPhoto": {
+    "message": "Upload a new photo"
+  },
+  "topicClosedToSubmission": {
+    "message": "Topic is currently closed to submissions"
+  },
+  "topicSubmitTo": {
+    "message": "Submit to <strong>{topicTitle}</strong>",
+    "backend": "tsx"
+  },
+  "topicSubmitToTitle": {
+    "message": "Submit to {topicTitle}"
+  }
+}

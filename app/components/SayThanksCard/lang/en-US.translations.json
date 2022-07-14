@@ -1,0 +1,14 @@
+{
+  "copySuccessTooltip": { "message": "URL copied to clipboard" },
+  "sponsorMessageDefaultCtaLabel": { "message": "Learn more" },
+  "mobileBodyCopy": {
+    "message": "Give a shoutout to <userLink></userLink> on social.",
+    "backend": "tsx"
+  },
+  "tabletUpBodyCopy": {
+    "message": "Give a shoutout to <userLink></userLink> on social or copy the text below to attribute.",
+    "backend": "tsx"
+  },
+  "heading": { "message": "Say thanks" },
+  "close": { "message": "Close" }
+}

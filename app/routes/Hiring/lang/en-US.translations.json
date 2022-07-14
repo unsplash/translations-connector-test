@@ -1,0 +1,107 @@
+{
+  "headTagsTitle": { "message": "Work at Unsplash" },
+  "headTagsDescription": {
+    "message": "Let us tell you a little about what it's like to work at Unsplash, how to apply, and what we're looking for."
+  },
+  "viewJobs": {
+    "message": "See opportunities"
+  },
+  "madeWithUnsplashImgAlt": {
+    "message": "Made With Unsplash"
+  },
+  "unsplashTeamImgAlt": {
+    "message": "Unsplash team"
+  },
+  "whatYoullBeBuildingTitle": {
+    "message": "What you’ll be building"
+  },
+  "whatYoullBeBuildingDescription": {
+    "message": "Unsplash is an ecosystem of digital products designed to support and enable creation. This means we spend most of our time <communityLink>building the highest quality library of usable images</communityLink>, figuring out how to <productLink>spread the impact of photography further than ever before</productLink>, and <photographyLink>connecting that impact to new opportunity</photographyLink>.",
+    "backend": "tsx"
+  },
+  "whatYoullBeBuildingFirstImageContent": {
+    "message": "Unsplash is home to a growing community of over {n, number} contributors, ranging from hobbyists to total pros."
+  },
+  "whatYoullBeBuildingSecondImageContent": {
+    "message": "Directly powering over {n, number}+ applications including Medium, Trello, Facebook, Squarespace, Google, and Square, and tens of millions of creatives."
+  },
+  "whatYoullBeBuildingThirdImageContent": {
+    "message": "Unsplash on-the-go: find beautiful images anywhere, with Unsplash for iOS — our mobile creative companion."
+  },
+  "callOutSectionTitle": {
+    "message": "We’re a small, fully-distributed team, that knows how to balance work and play."
+  },
+  "callOutFirst": {
+    "message": "Remote-friendly"
+  },
+  "callOutSecond": {
+    "message": "Flexible hours and generous vacation policy"
+  },
+  "callOutThird": {
+    "message": "Parental leave and support"
+  },
+  "callOutFourth": {
+    "message": "Company retreats"
+  },
+  "callOutFifth": {
+    "message": "Healthcare"
+  },
+  "callOutSixth": {
+    "message": "The tools you need to do your best work"
+  },
+  "weAreHiringLabel": {
+    "message": "We’re hiring!"
+  },
+  "joinTheTeamHeading": {
+    "message": "Join the Unsplash team."
+  },
+  "joinTheTeamSubHeading": {
+    "message": "From anywhere."
+  },
+  "joinTheTeamBody": {
+    "message": "Help us shape the future of freely usable imagery—powered by a community of millions of creators."
+  },
+  "ourStoryHeading": {
+    "message": "Our Story"
+  },
+  "ourStoryCopy1": {
+    "message": "In 2013, Unsplash launched as a Tumblr blog with 10 high-resolution photos that could be used for anything. Today, Unsplash powers more people and products than any other visual search engine in the world, with more than 100 million images downloaded every month—more than the rest of the industry combined."
+  },
+  "ourStoryCopy2": {
+    "message": "We’re building a community where the principles of sharing and openness have taken the place of copyright and red tape. Instead of photos being hoarded and shut down, photos on Unsplash are given as fuel for creativity."
+  },
+  "ourStoryCopy3": {
+    "message": "Our aim is to build the most useful visual library ever created. Unsplash photography has led to more than <link>3 billion creative acts</link> enabling people from everywhere to create. You don’t need to know someone, or have an agent, or have a name to be great on Unsplash. We’re a place where creators meet their audience, where individuals become a community, and a source for creativity.",
+    "backend": "tsx"
+  },
+  "ourTeamHeading": {
+    "message": "Who you’ll be building with"
+  },
+  "ourTeamCopy1": {
+    "message": "<link>Our team</link> is made up of people who enjoy making things people love. We care about details and we care about quality.",
+    "backend": "tsx"
+  },
+  "ourTeamCopy2": {
+    "message": "We designed our company in a way to get as much of the stuff that’s not the creative work out of your way, so you can do your best work. We don’t believe in a top-down, shoulder-tapping, 9-5 type culture. At Unsplash, you have the autonomy to manage yourself. We don’t work set hours. <link>We respect flow</link>. We believe you should be able to structure your days for what makes you feel the most energized and creative.",
+    "backend": "tsx"
+  },
+  "jobPostsHeading": {
+    "message": "How to apply"
+  },
+  "jostPostsSubheading": {
+    "message": "If you want to work with us, all we want to see is a message from you. <link>Please don’t send a resume</link>. Instead, tell us who you are. Show us relevant things you’ve done that you’re excited about.",
+    "backend": "tsx"
+  },
+  "noJobPostsAvailable": {
+    "message": "There are currently no vacancies."
+  },
+  "footNoteCopy1": {
+    "message": "What we look for in a teammate is someone who’s thoughtful, skillful, and enjoyable to work with. Every person we hire is someone we see ourselves working with for the long run."
+  },
+  "footNoteCopy2": {
+    "message": "We’ve got big plans. If you want to help us make them happen, we’d love to hear from you."
+  },
+  "unsplashTeam": {
+    "message": "the Unsplash team"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "invalidCredentialsMessage": {
+    "message": "Invalid email or password."
+  }
+}

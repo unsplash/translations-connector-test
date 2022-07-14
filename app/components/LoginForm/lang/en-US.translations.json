@@ -1,0 +1,11 @@
+{
+  "emailGroupLabel": { "message": "Email" },
+  "heading": { "message": "Login" },
+  "defaultMessage": { "message": "Welcome back." },
+  "facebookLogin": { "message": "Login with Facebook" },
+  "or": { "message": "OR" },
+  "passwordLabel": { "message": "Password" },
+  "forgotPasswordLink": { "message": "Forgot your password?" },
+  "submitButton": { "message": "Login" },
+  "join": { "message": "Don’t have an account? <link>Join</link>", "backend": "tsx" }
+}

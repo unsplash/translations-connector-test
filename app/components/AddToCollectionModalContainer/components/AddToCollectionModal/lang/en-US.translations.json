@@ -1,0 +1,8 @@
+{
+  "create": {
+    "message": "Create a new collection"
+  },
+  "titleAddToCollection": {
+    "message": "Add to Collection"
+  }
+}

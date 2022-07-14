@@ -1,0 +1,11 @@
+{
+  "closed": {
+    "message": "Closed"
+  },
+  "open": {
+    "message": "Open"
+  },
+  "closingSoon": {
+    "message": "Closing soon"
+  }
+}

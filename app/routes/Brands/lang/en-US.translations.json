@@ -1,0 +1,62 @@
+{
+  "headTagsTitle": { "message": "Unsplash for Brands" },
+  "headTagsDescription": { "message": "Your brand across the internet." },
+  "homeButtonTitle": {
+    "message": "Home"
+  },
+  "unsplashIconTitle": {
+    "message": "Unsplash Home"
+  },
+  "mainHeading": {
+    "message": "It’s time for a new kind of advertising for the internet."
+  },
+  "adCopy": {
+    "message": "Attention is a scarce asset. Yet, today’s advertising platforms are built on a model of interruption, forcing brands between you and your intention."
+  },
+  "comments": {
+    "message": "{n, number} Comments"
+  },
+  "shares": {
+    "message": "{n, number} Shares"
+  },
+  "videoAdHeading": {
+    "message": "Though ads are everywhere, people don’t trust them."
+  },
+  "videoAdCopy": {
+    "message": "Study after study shows when you pay to reach people in an interruptive way, less than 5% pay attention."
+  },
+  "viewProfile": {
+    "message": "View profile"
+  },
+  "viewProfileCopy": {
+    "message": "In today’s interruption advertising model, the more money you spend, the more people you annoy. Advertisers are trying to solve this lack of trust problem by spending more money and showing more ads but that only makes it worse. This is not a content problem. This is not a targeting problem. It’s a context problem."
+  },
+  "closingNotesHeading": {
+    "message": "People don’t trust ads. People trust people. Brands don’t need more ads. They need more people sharing them in trusted contexts."
+  },
+  "closingNotesP1": {
+    "message": "By making images available for open use, Unsplash has become the primary source for visuals on the internet. Images on Unsplash are regularly seen more than the frontpage of The New York Times."
+  },
+  "closingNotesP2": {
+    "message": "Unsplash puts your content in the hands of people, the creators of the internet. They add context by sharing your visuals with their audiences."
+  },
+  "closingNotesP3": {
+    "message": "When your content is leveraged by choice and embedded in a trusted context, attention stays intact."
+  },
+  "closingNotesP4": {
+    "message": "Your content organically spreads across the internet. Initially, you reach all the creators. Then, with their networks, you reach the entire internet."
+  },
+  "closingNotesP5": {
+    "message": "The attention of devoted audiences can only be earned by brands that stop trying to take value and start trying to add value."
+  },
+  "closingNotesP6": {
+    "message": "Ads don’t have to be creepy or annoying to work.<br></br>They just have to add value.",
+    "backend": "tsx"
+  },
+  "footerHeading": {
+    "message": "Advertising for those who know there’s a better way."
+  },
+  "joinWaitlist": {
+    "message": "Join the waitlist"
+  }
+}

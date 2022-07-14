@@ -1,0 +1,6 @@
+{
+  "buttonText": {
+    "message": "Message {userFirstName}",
+    "description": "\"Message\" here is a verb."
+  }
+}

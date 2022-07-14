@@ -1,0 +1,5 @@
+{
+  "onlyAcceptUploadAfterDate": {
+    "message": "{topicTitle} only accepts photos uploaded after {date}."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "description": {
+    "message": "{photoCount, plural, one {# photo} other {# photos}}"
+  },
+  "curatedBy": {
+    "backend": "tsx",
+    "message": "Curated by <userLink></userLink>"
+  },
+  "privateTooltip": {
+    "message": "This collection is private. To share, copy the URL or make the collection public."
+  }
+}

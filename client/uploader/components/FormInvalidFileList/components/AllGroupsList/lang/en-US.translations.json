@@ -1,0 +1,31 @@
+{
+  "numberOfFiles": {
+    "message": "{numberOfFiles, plural, one {# file} other {# files}}"
+  },
+
+  "fetchImageDataFailureTitle": {
+    "message": "{numberOfFiles, plural, one {# file} other {# files}} was unable to load"
+  },
+  "fetchImageDataFailureSubtitle": { "message": "Make sure the file is not damaged" },
+
+  "exceedsMaximumFileSizeTitle": {
+    "message": "{numberOfFiles, plural, one {# file} other {# files}} exceeded the maximum file size"
+  },
+  "exceedsMaximumFileSizeSubtitle": {
+    "message": "Please upload images under {megabytes, number} MB"
+  },
+
+  "insufficientMegapixelsTitle": {
+    "message": "{numberOfFiles, plural, one {# file} other {# files}} did not meet the minimum size"
+  },
+  "insufficientMegapixelsSubtitle": {
+    "message": "Please upload images over {megapixels, number}MP"
+  },
+
+  "invalidFileTypeTitle": {
+    "message": "{numberOfFiles, plural, one {# file} other {# files}} had a wrong file type"
+  },
+  "invalidFileTypeSubtitle": {
+    "message": "Upload only image files ({acceptedFileExtensions})"
+  }
+}

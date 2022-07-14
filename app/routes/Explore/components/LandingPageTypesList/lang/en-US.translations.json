@@ -1,0 +1,14 @@
+{
+  "wallpapersTitle": { "message": "Wallpapers" },
+  "wallpapersDescription": { "message": "Discover your next desktop or mobile wallpaper." },
+  "imagesTitle": { "message": "Images" },
+  "imagesDescription": { "message": "Download amazing photos and pictures for free." },
+  "backgroundsTitle": { "message": "Backgrounds" },
+  "backgroundsDescription": { "message": "Download free desktop and mobile backgrounds." },
+  "pageTitleIPhoneWallpapers": { "message": "iPhone Wallpapers" },
+  "pageTitleCoolWallpapers": { "message": "Cool Wallpapers" },
+  "pageTitleFreeStockPhotos": { "message": "Free Stock Photos" },
+  "pageTitleNatureImages": { "message": "Nature Images" },
+  "pageTitleCoolBackgrounds": { "message": "Cool Backgrounds" },
+  "pageTitleDesktopBackgrounds": { "message": "Desktop Backgrounds" }
+}

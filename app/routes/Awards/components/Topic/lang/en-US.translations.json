@@ -1,0 +1,6 @@
+{
+  "numberOfPhotosEntered": {
+    "message": "You’ve entered {numberOfPhotos, plural, one {# photo} other {# photos}}"
+  },
+  "sectionCta": { "message": "View 2021 finalists" }
+}

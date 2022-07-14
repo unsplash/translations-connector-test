@@ -1,0 +1,20 @@
+{
+  "contact": { "message": "Let's chat" },
+  "title": { "message": "Search for: {capitalizedSearchTerm}" },
+  "blurb": {
+    "message": "Your photos will appear at the top of our search results, indistinguishable from others. "
+  },
+  "blurb2": {
+    "message": "<strong>{companyName} will own the internet’s visuals for all things related to {listFormattedSearchTerms}</strong>.",
+    "backend": "tsx"
+  },
+  "relatedSearchesText": {
+    "message": "Find your photos in other related searches:"
+  },
+  "footerTitle": { "message": "Ready to work with us?" },
+  "caseStudyLink": { "message": "Learn more." },
+  "footerCopy": {
+    "message": "Branded imagery on Unsplash reaches internet scale while <strong>outperforming industry benchmark advertisements by 3x.</strong>",
+    "backend": "tsx"
+  }
+}

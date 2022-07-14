@@ -1,0 +1,10 @@
+{
+  "allTime": {
+    "message": "All time",
+    "description": "A range of time"
+  },
+  "lastThirtyDays": {
+    "message": "Last 30 days",
+    "description": "A range of time"
+  }
+}

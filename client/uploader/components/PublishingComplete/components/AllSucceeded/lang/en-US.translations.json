@@ -1,0 +1,28 @@
+{
+  "main": {
+    "message": "Our Editorial team is now reviewing your {totalPhotosSubmitted, plural, one {# photo} other {<strong>#</strong> photos}}.",
+    "backend": "tsx"
+  },
+  "viewYourProfileLinkLabel": { "message": "View your profile" },
+  "thanksForUploading": {
+    "message": "Thanks for uploading",
+    "backend": "tsx"
+  },
+  "unsplashContributor": {
+    "message": "It’s official! You’re an Unsplash contributor",
+    "backend": "tsx"
+  },
+  "unsplashWouldntBeWhatItIsTodayWithout": {
+    "message": "Unsplash wouldn’t be what it is today without awesome contributors like you."
+  },
+  "contributedPhotos": {
+    "message": "You have now contributed {contributorPhotoCount, number} photos to Unsplash!"
+  },
+  "allTimeSubmissions": {
+    "message": "You’ve just brought Unsplash up to {unsplashSubmissionCount, number} all-time submissions."
+  },
+  "letYourFriendsKnow": { "message": "Let your friends know!" },
+  "newPhotosUpOnMyUnsplashProfile": {
+    "message": "New photos up on my @unsplash profile {rightArrowEmoji}"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "readTheTerm": {
+    "message": "Read the <link>Unsplash Terms</link>",
+    "backend": "tsx"
+  },
+  "highQualityPhotos": {
+    "message": "<strong>High quality photos</strong> (at least <strong>{megapixels}MP</strong>)",
+    "backend": "tsx"
+  },
+  "photosAreClearAndOriginal": {
+    "message": "Photos are <strong>clear & original</strong>",
+    "backend": "tsx"
+  },
+  "onlyUploadPhotosYouOwnTheRightsTo": {
+    "message": "Only upload photos you <strong>own the rights</strong> to",
+    "backend": "tsx"
+  },
+  "zeroToleranceForNudityViolenceOrHate": {
+    "message": "Zero tolerance for nudity, violence or hate"
+  },
+  "respectTheIntellectualPropertyOfOthers": {
+    "message": "Respect the intellectual property of others"
+  }
+}

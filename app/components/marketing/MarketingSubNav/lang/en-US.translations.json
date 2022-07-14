@@ -1,0 +1,14 @@
+{
+  "about": {
+    "message": "About"
+  },
+  "history": {
+    "message": "History"
+  },
+  "joinTheTeam": {
+    "message": "Join the team"
+  },
+  "press": {
+    "message": "Press"
+  }
+}

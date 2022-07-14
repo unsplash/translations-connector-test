@@ -1,0 +1,12 @@
+{
+  "customSuggestion": {
+    "message": "Add “{value}”",
+    "description": "E.g. \"Add “{My Custom Location}”\""
+  },
+  "inputTitle": {
+    "message": "Location search"
+  },
+  "inputPlaceholder": {
+    "message": "Add a place or a city"
+  }
+}

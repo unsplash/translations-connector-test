@@ -1,0 +1,6 @@
+{
+  "visualSearch": { "message": "Visual search" },
+  "formLoadingErrorMessage": {
+    "message": "Error when loading visual search form"
+  }
+}

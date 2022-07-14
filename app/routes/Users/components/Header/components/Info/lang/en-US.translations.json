@@ -1,0 +1,20 @@
+{
+  "interests": {
+    "message": "Interests"
+  },
+  "editTags": {
+    "message": "Edit Tags"
+  },
+  "paypalSupport": { "message": "Support via PayPal" },
+  "availableForHire": { "message": "Available for hire" },
+  "notAvailableForHire": { "message": "Not available for hire" },
+  "updateHireStatus": {
+    "message": "Update"
+  },
+  "fallBackBio": {
+    "message": "Download free, beautiful high-quality photos curated by {firstName}."
+  },
+  "connectWithName": {
+    "message": "Connect with {firstName}"
+  }
+}

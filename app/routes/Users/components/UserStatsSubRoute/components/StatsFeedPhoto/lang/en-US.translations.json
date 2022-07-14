@@ -1,0 +1,23 @@
+{
+  "featuredOn": {
+    "message": "Featured on",
+    "description": "Followed by a date on a newline e.g. \"Featured on <newline> {date}\""
+  },
+  "footerItemLabelDownloads": {
+    "message": "downloads"
+  },
+  "footerItemLabelViews": {
+    "message": "views"
+  },
+  "rank": {
+    "message": "#{n, number}"
+  },
+  "publishedRelative": {
+    "message": "Published <date></date>",
+    "backend": "tsx"
+  },
+  "publishedAbsolute": {
+    "message": "Published on <date></date>",
+    "backend": "tsx"
+  }
+}

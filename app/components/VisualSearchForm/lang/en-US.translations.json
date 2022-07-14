@@ -1,0 +1,52 @@
+{
+  "inputLabel": {
+    "message": "Paste an image or a URL"
+  },
+  "helpMessage": {
+    "message": "Need help?"
+  },
+  "visualSearchTitle": {
+    "message": "Visual Search"
+  },
+  "visualSearchFormAriaLabel": {
+    "message": "Visual search form"
+  },
+  "networkErrorMessage": {
+    "message": "Network error. Please check your connection and then try again."
+  },
+  "unexpectedUploadErrorMessage": {
+    "message": "Unexpected upload error."
+  },
+  "invalidURLErrorMessage": {
+    "message": "Invalid URL (must be HTTP, HTTPS or data URL)."
+  },
+  "invalidFileTypeErrorMessage": {
+    "message": "Invalid file type (must be {types})."
+  },
+  "unexpectedApiErrorMessage": {
+    "message": "Unexpected API error. Please try again."
+  },
+  "closeButtonTitle": {
+    "message": "Close"
+  },
+  "errorLoadingImageError": {
+    "message": "Error loading image."
+  },
+  "uploadInstructions": {
+    "message": "Drag and drop your image here or <highlight>Browse</highlight> to choose a file.",
+    "backend": "tsx"
+  },
+  "or": {
+    "message": "or",
+    "description": "Used as a separator to give the user a choice between two graphic elements text. e.g 'Element 1' or 'Element 2'"
+  },
+  "examplesLabel": {
+    "message": "Or try one of the examples below:"
+  },
+  "dropZoneLabel": {
+    "message": "Drop your image here."
+  },
+  "exampleButtonTitle": {
+    "message": "Search for this image"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "photos": {
+    "message": "Photos"
+  },
+  "likes": {
+    "message": "Likes"
+  },
+  "collections": {
+    "message": "Collections"
+  },
+  "stats": {
+    "message": "Stats"
+  }
+}

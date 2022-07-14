@@ -1,0 +1,8 @@
+{
+  "downloads": { "message": "Downloads" },
+  "views": { "message": "Views" },
+  "sortByKey": {
+    "message": "Sort by <key></key>",
+    "backend": "tsx"
+  }
+}

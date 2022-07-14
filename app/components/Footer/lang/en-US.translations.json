@@ -1,0 +1,113 @@
+{
+  "infoLinkAbout": {
+    "message": "About"
+  },
+  "infoLinkBlog": {
+    "message": "Blog"
+  },
+  "infoLinkCommunity": {
+    "message": "Community"
+  },
+  "infoLinkJoinTheTeam": {
+    "message": "Join the team"
+  },
+  "infoLinkDevelopers": {
+    "message": "Developers/API"
+  },
+  "infoLinkPress": {
+    "message": "Press"
+  },
+  "infoLinkHelpCenter": {
+    "message": "Help Center"
+  },
+  "productLinkAwards": {
+    "message": "Unsplash Awards"
+  },
+  "productLinkEducation": {
+    "message": "Unsplash for Education"
+  },
+  "productLinkiOS": {
+    "message": "Unsplash for iOS"
+  },
+  "productLinkAppsAndPlugins": {
+    "message": "Apps & Plugins"
+  },
+  "productLinkExplore": {
+    "message": "Explore"
+  },
+  "popularLinkBackgrounds": {
+    "message": "Backgrounds"
+  },
+  "popularLinkFreeImages": {
+    "message": "Free Images"
+  },
+  "popularLinkFreeStockPhotos": {
+    "message": "Free Stock Photos"
+  },
+  "popularLinkHappyBirthdayImages": {
+    "message": "Happy Birthday Images"
+  },
+  "popularLinkCoolPhotos": {
+    "message": "Cool Photos"
+  },
+  "popularLinkNaturePictures": {
+    "message": "Nature Pictures"
+  },
+  "popularLinkBlackBackgrounds": {
+    "message": "Black Backgrounds"
+  },
+  "popularLinkWhiteBackgrounds": {
+    "message": "White Backgrounds"
+  },
+  "popularLinkTextures": {
+    "message": "Textures"
+  },
+  "popularLinkDesktopBackgrounds": {
+    "message": "Desktop Backgrounds"
+  },
+  "wallpaperLinkHDWallpapers": {
+    "message": "HD Wallpapers"
+  },
+  "wallpaperLinkFourKWallpapers": {
+    "message": "4k Wallpapers"
+  },
+  "wallpaperLinkiPhoneWallpapers": {
+    "message": "iPhone Wallpapers"
+  },
+  "wallpaperLinkCoolWallpapers": {
+    "message": "Cool Wallpapers"
+  },
+  "wallpaperLinkCuteWallpapers": {
+    "message": "Cute Wallpapers"
+  },
+  "wallpaperLinkLiveWallpapers": {
+    "message": "Live Wallpapers"
+  },
+  "wallpaperLinkPCWallpapers": {
+    "message": "PC Wallpapers"
+  },
+  "wallpaperLinkBlackWallpapers": {
+    "message": "Black Wallpapers"
+  },
+  "wallpaperLinkiPadWallpapers": {
+    "message": "iPad Wallpapers"
+  },
+  "wallpaperLinkDesktopWallpapers": {
+    "message": "Desktop Wallpapers"
+  },
+  "subLinkPrivacyPolicy": {
+    "message": "Privacy Policy"
+  },
+  "subLinkTerms": {
+    "message": "Terms"
+  },
+  "subLinkSecurity": {
+    "message": "Security"
+  },
+  "makeSomethingAwesomeSimple": {
+    "message": "Make something awesome"
+  },
+  "makeSomethingAwesomeWithUserName": {
+    "message": "Make something awesome, {name}"
+  }
+}

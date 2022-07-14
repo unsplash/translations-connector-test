@@ -1,0 +1,11 @@
+{
+  "byUser": {
+    "message": "by <link></link>",
+    "description": "Often followed by a username such as 'by Thomas'",
+    "backend": "tsx"
+  },
+  "nOfContributions": {
+    "message": "{n} contributions",
+    "description": "n here is a formatted number but we format it beforehand because it must contain a prefix such as `k` for thousands, e.g '10k'"
+  }
+}

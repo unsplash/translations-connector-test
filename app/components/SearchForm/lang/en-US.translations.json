@@ -1,0 +1,6 @@
+{
+  "keywordSearchButtonTitle": { "message": "Search Unsplash" },
+  "visualPlaceholder": { "message": "Filter by keyword" },
+  "keywordDesktopPlaceholder": { "message": "Search free high-resolution photos" },
+  "keywordMobileAndTabletPlaceholder": { "message": "Search photos" }
+}

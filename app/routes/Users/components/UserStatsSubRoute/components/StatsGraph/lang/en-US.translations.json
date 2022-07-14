@@ -1,0 +1,26 @@
+{
+  "infoIconTooltipViews": {
+    "message": "Part of your views come from being viewed in the following applications."
+  },
+  "infoIconTooltipDownloads": {
+    "message": "Part of your downloads come from being downloaded from the following applications."
+  },
+  "category": {
+    "message": "{title, select, Views {Views} Downloads {Downloads}}"
+  },
+  "topAppsTitle": {
+    "message": "Most {title, select, Views {viewed} Downloads {downloaded}} on"
+  },
+  "empty": {
+    "message": "Nothing to report so far."
+  },
+  "failure": {
+    "message": "We’re having trouble loading your stats."
+  },
+  "numDownloads": {
+    "message": "{n, number} downloads"
+  },
+  "numViews": {
+    "message": "{n, number} views"
+  }
+}

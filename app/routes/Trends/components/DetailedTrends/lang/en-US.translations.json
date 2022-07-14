@@ -1,0 +1,15 @@
+{
+  "statsHeading": { "message": "Stats" },
+  "searchViews": { "message": "Search views" },
+  "numSearchViews": { "message": "{n, number} search views" },
+  "chronoInterest": { "message": "Interest over time" },
+  "demand": { "message": "Demand" },
+  "results": { "message": "Results" },
+  "topResults": { "message": "Top results" },
+  "exploreRelated": { "message": "Explore related keywords to \"{keyword}\"" },
+  "emptyTrend": {
+    "message": "There are currently 0 photos for <strong>{keyword}</strong>. Help the community by uploading photos related to <strong>{keyword}</strong>.",
+    "backend": "tsx"
+  },
+  "lastNDays": { "message": "Last {n, number} days" }
+}

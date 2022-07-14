@@ -1,0 +1,4 @@
+{
+  "clipboardWriteError": { "message": "Text could not be copied." },
+  "networkError": { "message": "There was a network error. Please check your internet connection." }
+}

@@ -1,0 +1,49 @@
+{
+  "avatarAlt": {
+    "message": "Avatar of {name}"
+  },
+  "alexAinslieRole": { "message": "Head of Design" },
+  "alexAinslieBio": {
+    "message": "Alex is a designer and engineer based in San Francisco. At Google he’s responsible for Chrome’s product design, UX research, and content strategy."
+  },
+  "erikaAllenRole": { "message": "Senior Director, Global News Operations" },
+  "erikaAllenBio": {
+    "message": "Erika Allen is the Senior Director, Global News Operations at Vice Media. Prior to that role, she worked as an executive managing editor for Vice Digital, culture editor at New York magazine’s the Cut, executive editor as well as managing editor at the Outline, deputy editor of Vice Magazine and was editor of Times Insider at the New York Times."
+  },
+  "emmaDavidsonRole": { "message": "Fashion Features Director" },
+  "emmaDavidsonBio": {
+    "message": "Emma Davidson is currently the Fashion Features Director at Dazed Digital. She’s constantly seeking new trends and seeking alternative angles from which to approach them."
+  },
+  "victoriaEstevezRole": { "message": "Executive Producer, Production Lead" },
+  "victoriaEstevezBio": {
+    "message": "Victoria is a lifelong producer of video, photo and whatever else needs doing. She is currently the EP of the Content Innovation team at Calm and is lucky to live in the Lake Tahoe area with her wife, dog, and soon to be kiddo."
+  },
+  "jasonHewardRole": { "message": "Managing Director" },
+  "jasonHewardBio": {
+    "message": "Since becoming Managing Director for Leica, Jason Heward has given the legendary camera brand a new focus through creativity and collaborations. He created new destination stores and galleries in Mayfair, Harrods and Manchester giving discerning creatives places to admire and learn about photography. He has fostered creativity through collaborations including Royal Opera House, Belstaff, Goodwood, Paul Smith, Rolls- Royce and National Portrait Gallery."
+  },
+  "vivianeLabelleRole": { "message": "Concept Creator" },
+  "vivianeLabelleBio": {
+    "message": "Viviane Labelle is a French-Canadian designer & maker based in Portland, Oregon. She is currently working as a concept creator in the Innovation Kitchen at Nike where she creates original footwear concepts and dreams up the future of sports. In 2016 she obtained an ISPO award for a ski glove she created during her previous role as a soft goods designer. She graduated in 2013 with a Bachelor’s degree in Apparel Design from Université of Québec in Montréal."
+  },
+  "samiaLiamaniRol": { "message": "Founder" },
+  "samiaLiamaniBio": {
+    "message": "Samia Liamani is an Algerian-Canadian entrepreneur, fashion photographer and Founder of Good Faces. Good Faces Agency serves as a model management and creative collective for authentic inclusivity. Good Faces Club is a global freelance modelling platform helping brands book the right faces for their shoots. Liamani’s mission is to change the tone of the advertising and fashion industries, and have everyone feel seen."
+  },
+  "micheleOutlandRole": { "message": "Creative Director" },
+  "micheleOutlandBio": {
+    "message": "Michele Outland is the Creative Director and co-founder of Gather Journal, a recipe-based food magazine launched in June 2012. Since its launch, Gather Journal has garnered a James Beard Award for Visual Storytelling and twenty Society of Publication Designers medals, including being named the 2015 Brand of the Year. She has worked for Martha Stewart Living, Domino, The New York Times Magazine, NYLON, and New York Magazine. She was most recently Creative Director at Bon Appétit. She holds a BFA from Rhode Island School of Design and an MA from London’s Central Saint Martins College of Art and Design."
+  },
+  "joshRaabRole": { "message": "Director of Instagram " },
+  "joshRaabBio": {
+    "message": "Josh is currently Director of Instagram at National Geographic. Formerly he was Senior Multimedia Editor at TIME and a professor at the International Center of Photography. Josh started as a photographer and the Executive Editor of Jay Peg’s Photo Pub. an online and print publication for emerging photographers."
+  },
+  "marineRoucheyrolleRole": { "message": "Marketing Manager" },
+  "marineRoucheyrolleBio": {
+    "message": "I’m Marine, based in Paris and have been working at Airbnb for about 3 years and a half. Working on the Marketing team of such a creative/design driven company is an exciting challenge. I’m passionate about turning ideas into successful marketing campaigns all over Europe, and so thrilled to be working with talented people across the globe. I’m also working at my own company called Roukeys, where I’ve been making and selling t-shirts for the past 8 years."
+  },
+  "francescaWallaceRole": { "message": "Digital Editor" },
+  "francescaWallaceBio": {
+    "message": "Francesca is a fashion, design and travel editor who has worked across a number of Australian magazines, including Vogue, Vogue Living, marie claire and InStyle. She lives and works in Sydney."
+  }
+}

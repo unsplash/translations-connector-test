@@ -1,0 +1,17 @@
+{
+  "successMessageWithoutTopicTitle": {
+    "message": "<strong>{successTotal, number} of {total, number}</strong> photos are now being reviewed by the community and will soon be shared under the <link>Unsplash license</link>.",
+    "backend": "tsx"
+  },
+  "successMessage": {
+    "message": "<strong>{successTotal, number} of {total, number}</strong> photos are now being reviewed and may be shared in the <strong>{topicTitle}</strong> topic.",
+    "backend": "tsx"
+  },
+  "retryMessage": {
+    "message": "Please try re-publishing the remaining photos."
+  },
+  "heading": { "message": "Some of your photos were submitted." },
+  "publishRemainingPhotos": {
+    "message": "Publish remaining photos {rightwardsArrow}"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "locationIconTitle": { "message": "location" },
+  "clearButtonTitle": {
+    "message": "Clear"
+  },
+  "doneButtonTitle": {
+    "message": "Done"
+  }
+}

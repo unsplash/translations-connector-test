@@ -1,0 +1,14 @@
+{
+  "downloadWallpapers": {
+    "message": "Download Unsplash Wallpapers for macOS"
+  },
+  "downloadInstant": {
+    "message": "Download Unsplash Instant for Google Chrome"
+  },
+  "downloadiOS": {
+    "message": "Download Unsplash for iOS"
+  },
+  "downloadAppleTv": {
+    "message": "Get Unsplash for Apple TV"
+  }
+}

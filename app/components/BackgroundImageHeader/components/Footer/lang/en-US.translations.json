@@ -1,0 +1,10 @@
+{
+  "photoBy": {
+    "message": "<link>Photo</link> by <user></user>",
+    "backend": "tsx"
+  },
+  "readMoreAboutTheLicense": {
+    "message": "Read more about the <link>Unsplash License</link>",
+    "backend": "tsx"
+  }
+}

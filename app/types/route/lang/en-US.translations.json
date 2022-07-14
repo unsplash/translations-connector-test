@@ -1,0 +1,98 @@
+{
+  "Search_subRoute_photos": {
+    "message": "photos"
+  },
+  "Search_subRoute_users": {
+    "message": "users"
+  },
+  "Search_subRoute_collections": {
+    "message": "collections"
+  },
+  "Search_subRoute_visual": {
+    "message": "visual"
+  },
+  "Advertise": {
+    "message": "advertise"
+  },
+  "About": {
+    "message": "about"
+  },
+  "ActivityMap": {
+    "message": "activity map"
+  },
+  "ApiTerms": {
+    "message": "api terms"
+  },
+  "Apps": {
+    "message": "apps"
+  },
+  "Awards": {
+    "message": "awards"
+  },
+  "Brands": {
+    "message": "brands"
+  },
+  "Brands_subRoute_safety": {
+    "message": "safety"
+  },
+  "CampaignProposal": {
+    "message": "brand campaigns"
+  },
+  "Community": {
+    "message": "community"
+  },
+  "Education": {
+    "message": "education"
+  },
+  "Following": {
+    "message": "following"
+  },
+  "History": {
+    "message": "history"
+  },
+  "License": {
+    "message": "license"
+  },
+  "Login": {
+    "message": "login"
+  },
+  "Press": {
+    "message": "press"
+  },
+  "Privacy": {
+    "message": "privacy"
+  },
+  "PublicStats": {
+    "message": "stats"
+  },
+  "TermsAndConditions": {
+    "message": "terms"
+  },
+  "Collection": {
+    "message": "collections"
+  },
+  "Hiring": {
+    "message": "hiring"
+  },
+  "Explore": {
+    "message": "explore"
+  },
+  "Photos": {
+    "message": "photos"
+  },
+  "Photos_subRoute_share": {
+    "message": "share"
+  },
+  "Trends": {
+    "message": "trends"
+  },
+  "Users_subRoute_collections": {
+    "message": "collections"
+  },
+  "Users_subRoute_likes": {
+    "message": "likes"
+  },
+  "Users_subRoute_stats": {
+    "message": "stats"
+  }
+}

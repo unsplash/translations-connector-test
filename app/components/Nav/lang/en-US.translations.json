@@ -1,0 +1,156 @@
+{
+  "explore_link": {
+    "message": "Explore",
+    "description": "link part of the main nav"
+  },
+  "advertise_link": {
+    "message": "Advertise",
+    "description": "link part of the main nav"
+  },
+  "blog_link": {
+    "message": "Blog",
+    "description": "link part of the main nav"
+  },
+  "login": {
+    "message": "Log in",
+    "description": "link part of the main nav"
+  },
+  "signup": {
+    "message": "Sign up",
+    "description": "link part of the main nav"
+  },
+  "secondary_menu_trigger_button_title": {
+    "message": "View more links",
+    "description": "For accessibility we add a title to the button element which appears when you hover over"
+  },
+  "secondary_menu_mobile_trigger_button_title": {
+    "message": "Mobile nav menu button",
+    "description": "For accessibility we add a title to the button element which appears when you hover over"
+  },
+  "about_link": {
+    "message": "About",
+    "description": "link part of the main nav"
+  },
+  "history_link": {
+    "message": "History",
+    "description": "link part of the main nav"
+  },
+  "hiring_link": {
+    "message": "Join the team",
+    "description": "link part of the main nav"
+  },
+  "press_link": {
+    "message": "Press",
+    "description": "link part of the main nav"
+  },
+  "contact_us_link": {
+    "message": "Contact us",
+    "description": "link part of the main nav"
+  },
+  "help_link": {
+    "message": "Help Center",
+    "description": "link part of the main nav"
+  },
+  "developers_link": {
+    "message": "Developers/API",
+    "description": "link part of the main nav"
+  },
+  "dataset_link": {
+    "message": "Unsplash Dataset",
+    "description": "link part of the main nav"
+  },
+  "ios_link": {
+    "message": "Unsplash for iOS",
+    "description": "link part of the main nav"
+  },
+  "apps_link": {
+    "message": "Apps & Plugins",
+    "description": "link part of the main nav"
+  },
+  "contributor_link": {
+    "message": "Become a Contributor",
+    "description": "link part of the main nav"
+  },
+  "topics_link": {
+    "message": "Topics",
+    "description": "link part of the main nav"
+  },
+  "collections_link": {
+    "message": "Collections",
+    "description": "link part of the main nav"
+  },
+  "trends_link": {
+    "message": "Trends",
+    "description": "link part of the main nav"
+  },
+  "unsplash_awards_link": {
+    "message": "Unsplash Awards",
+    "description": "link part of the main nav"
+  },
+  "stats_link": {
+    "message": "Stats",
+    "description": "link part of the main nav"
+  },
+  "license_link": {
+    "message": "License",
+    "description": "link part of the main nav"
+  },
+  "privacy_policy": {
+    "message": "Privacy Policy",
+    "description": "link part of the main nav"
+  },
+  "terms_link": {
+    "message": "Terms",
+    "description": "link part of the main nav"
+  },
+  "submit_photo_button": {
+    "message": "Submit a photo",
+    "description": "button part of the main nav"
+  },
+  "security_link": {
+    "message": "Security",
+    "description": "button part of the main nav"
+  },
+  "category_title_company": {
+    "message": "Company",
+    "description": "Category of links in the secondary menu of the main nav"
+  },
+  "category_title_product": {
+    "message": "Product",
+    "description": "Category of links in the secondary menu of the main nav"
+  },
+  "category_title_community": {
+    "message": "Community",
+    "description": "Category of links in the secondary menu of the main nav"
+  },
+  "category_title_legal": {
+    "message": "Legal",
+    "description": "Category of links in the secondary menu of the main nav"
+  },
+  "view_profile_link": {
+    "message": "View profile",
+    "description": "link part of the main nav"
+  },
+  "personal_stats_link": {
+    "message": "Stats",
+    "description": "link part of the main nav"
+  },
+  "account_settings_link": {
+    "message": "Account settings",
+    "description": "link part of the main nav"
+  },
+  "logout_link": {
+    "message": "Logout {username}",
+    "description": "link part of the main nav"
+  },
+  "notifications_button_label": {
+    "message": "Notifications"
+  },
+  "submit_photo_shorthand_prefix": {
+    "message": "Submit"
+  },
+  "submit_photo_shorthand_suffix": {
+    "message": "a photo"
+  },
+  "personalMenuButton": { "message": "Your personal menu button" }
+}

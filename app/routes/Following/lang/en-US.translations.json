@@ -1,0 +1,15 @@
+{
+  "headTagsTitle": { "message": "Following" },
+  "headTagsDescription": {
+    "message": "The latest photos from photographers you follow."
+  },
+  "followingTitle": {
+    "message": "Following"
+  },
+  "followingSubTitle": {
+    "message": "The latest photos from photographers you follow."
+  },
+  "noContent": {
+    "message": "No photos to display. Follow some Unsplash photographers and check back soon."
+  }
+}

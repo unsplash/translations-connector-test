@@ -1,0 +1,36 @@
+{
+  "spamOrInappropriateDescriptionLocation": {
+    "message": "Spam or inappropriate description/location"
+  },
+  "spamInTitleOrDescription": { "message": "Spam in title or description" },
+  "offensiveTitleOrDescription": { "message": "Offensive title or description" },
+  "inappropriateCollection": { "message": "Inappropriate collection" },
+  "thisPersonsProfileContainsSpam": { "message": "This person’s profile contains spam" },
+  "thisPersonsProfileIsOffensive": { "message": "This person’s profile is offensive" },
+  "fakeProfileImpersonation": { "message": "Fake profile / impersonation" },
+  "other": { "message": "Other" },
+  "yourReportHasBeenSubmitted": { "message": "Your report has been submitted." },
+  "selectOption": { "message": "Select option" },
+  "detailsRequired": {
+    "message": "Details <info>(required*)</info>",
+    "backend": "tsx"
+  },
+  "detailsOptional": {
+    "message": "Details <info>(optional)</info>",
+    "backend": "tsx"
+  },
+  "cancel": { "message": "Cancel" },
+  "report": { "message": "Report " },
+  "description": {
+    "message": "Your report is anonymous, except if you’re reporting an intellectual rights infringement. Please review our <link>Community Guidelines</link> for additional information about what is and isn’t permitted on Unsplash.",
+    "backend": "tsx"
+  },
+  "reportCollection": { "message": "Report collection" },
+  "reportPhoto": { "message": "Report photo" },
+  "reportUser": { "message": "Report user" },
+  "detailsPlaceholder": { "message": "Give us more details about what is wrong with this post..." },
+  "whatAreYouReportingGroupLabel": { "message": "What are you reporting?" },
+  "apiError": { "message": "API error: {apiErrorMessage}" },
+  "formValidationError": { "message": "Form validation error" },
+  "unknownError": { "message": "Unknown error." }
+}

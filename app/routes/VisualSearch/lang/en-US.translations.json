@@ -1,0 +1,21 @@
+{
+  "headTagsTitle": { "message": "Visual search" },
+  "headTagsDescription": {
+    "message": "Visual search results"
+  },
+  "photos": { "message": "Photos" },
+  "headerDescription": {
+    "message": "Showing <strong>{feedTotal, number}</strong> visually similar results to <yourPhotoLink>your photo</yourPhotoLink>.",
+    "backend": "tsx"
+  },
+  "newSearchDescription": {
+    "message": "Try a <visualSearchFormPopover></visualSearchFormPopover> or add a keyword to refine",
+    "backend": "tsx"
+  },
+  "newSearch": {
+    "message": "new search"
+  },
+  "visualSearchHeader": {
+    "message": "Visual search"
+  }
+}

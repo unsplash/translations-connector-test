@@ -1,0 +1,77 @@
+{
+  "register": { "message": "Join us today" },
+  "upload": { "message": "Upload a photo" },
+  "view": { "message": "See Unsplash remixes" },
+  "joinChat": { "message": "Join the conversation" },
+  "events": { "message": "Get involved" },
+  "help": { "message": "Visit the Help Center" },
+  "madeWithUnsplashImgAlt": { "message": "Made With Unsplash" },
+  "seeWhatsTrandingLinkLabel": { "message": "See what’s trending" },
+  "unsplashIsUnique": { "message": "Unsplash is unlike any other platform." },
+  "everyoneIsWelcomeImageTitle": { "message": "Everyone is welcome" },
+  "everyoneIsWelcomeImageContent": {
+    "message": "Our growing community of over {n, number} contributors range from hobbyists to total pros, all working to make Unsplash everything that it is today."
+  },
+  "noCameraImageTitle": { "message": "No camera? No problem!" },
+  "noCameraImageContent": {
+    "message": "You don’t need fancy equipment to start contributing to Unsplash—submitting a photo can be as simple as picking up your phone and taking a few photos."
+  },
+  "noCameraImageContentLinkLabel": { "message": "Discover our top tips for mobile photography" },
+  "measureYourImpactImageTitle": { "message": "Measure your impact" },
+  "measureYourImpactImageContent": {
+    "message": "Like numbers? Us too. We provide stats on every photo you upload so you can understand how your photos are helping others around the world."
+  },
+  "callOutSectionTitle": { "message": "You’ve got questions? We’ve got answers." },
+  "callOutFirstQ": { "message": "What are Unsplash’s submission guidelines?" },
+  "callOutSecondQ": { "message": "How do I create the most effective profile?" },
+  "callOutThirdQ": { "message": "How can images on Unsplash be used?" },
+  "callOutFourthQ": { "message": "How do you choose which photos are promoted?" },
+  "square1Title": { "message": "Textures & Patterns" },
+  "square2Title": { "message": "Nature" },
+  "square3Title": { "message": "Current Events" },
+  "square4Title": { "message": "Architecture" },
+  "square5Title": { "message": "Business & Work" },
+  "square6Title": { "message": "Animals" },
+  "square7Title": { "message": "Travel" },
+  "square8Title": { "message": "Fashion" },
+  "headTagsTitle": { "message": "Contribute today" },
+  "headTagsDescription": {
+    "message": "Share your images with millions of people around the world."
+  },
+  "contributeToday": { "message": "Contribute today" },
+  "contributeTodayDescription": {
+    "message": "Share your images with millions of people around the world."
+  },
+  "seeYourWorkInTheWild": { "message": "See your work in the wild" },
+  "seeYourWorkInTheWildDescription": {
+    "message": "Unsplash has quickly become the internet’s source of visuals—powering everything from Apple keynotes to high school Art projects. By contributing your images, you are pushing creativity forward every day."
+  },
+  "connectWithCreatorsFromEverywhere": { "message": "Connect with creators from everywhere" },
+  "connectWithCreatorsFromEverywhereBody": {
+    "message": "Whether you’ve got a question, you’re looking for feedback on your latest photo, or you need tips on where to shoot—the Unsplash chat room makes it easy to connect with our community in real time."
+  },
+  "joinedAtDate": {
+    "message": "Joined <date></date>",
+    "backend": "tsx",
+    "description": "E.g. \"Join August 13, 2016\" (absolute time format)"
+  },
+  "findEventsOrganizedBy": { "message": "Find events organized by the community" },
+  "findEventsOrganizedByBody": {
+    "message": "Over the past years, Unsplash members have hosted gatherings, led photowalks, run exciting events around the world, making Unsplash accessible to everyone around the world. Sound fun?"
+  },
+  "contributorsTotal": { "message": "Over {n, number} creators contribute to Unsplash" },
+  "photographerTitle": { "message": "Photographer" },
+  "dontKnowWhatToContribute": { "message": "Don’t know what to contribute?" },
+  "dontKnowWhatToContributeBody": {
+    "message": "We’ve got plenty of ideas to get you started! Find out what kind of photos our community is looking to help your images stand out and get seen fast."
+  },
+  "designerJobTitle": {
+    "message": "{name}, Designer"
+  },
+  "communityManagerJobTitle": {
+    "message": "{name}, Community Manager"
+  },
+  "photographerJobTitle": {
+    "message": "{name}, Photographer"
+  }
+}

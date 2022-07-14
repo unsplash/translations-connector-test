@@ -1,0 +1,54 @@
+{
+  "color_any": {
+    "message": "Any color",
+    "description": "Search color filter"
+  },
+  "color_monochromatic": {
+    "message": "Black and white",
+    "description": "Search color filter"
+  },
+  "color_white": {
+    "message": "White",
+    "description": "Search color filter"
+  },
+  "color_black": {
+    "message": "Black",
+    "description": "Search color filter"
+  },
+  "color_yellow": {
+    "message": "Yellow",
+    "description": "Search color filter"
+  },
+  "color_orange": {
+    "message": "Orange",
+    "description": "Search color filter"
+  },
+  "color_red": {
+    "message": "Red",
+    "description": "Search color filter"
+  },
+  "color_purple": {
+    "message": "Purple",
+    "description": "Search color filter"
+  },
+  "color_magenta": {
+    "message": "Magenta",
+    "description": "Search color filter"
+  },
+  "color_green": {
+    "message": "Green",
+    "description": "Search color filter"
+  },
+  "color_teal": {
+    "message": "Teal",
+    "description": "Search color filter"
+  },
+  "color_blue": {
+    "message": "Blue",
+    "description": "Search color filter"
+  },
+  "color_tone": {
+    "message": "Tone",
+    "description": "Search color filter"
+  }
+}

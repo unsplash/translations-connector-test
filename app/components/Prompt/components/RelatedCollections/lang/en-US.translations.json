@@ -1,0 +1,10 @@
+{
+  "numberOfPhotos": {
+    "message": "{numberOfPhotosFormatted} {numberOfPhotos, plural, one {photo} other {photos}}",
+    "description": "Number of photos e.g. \"1 photo\" or \"2k photos\""
+  },
+  "related_collections": {
+    "message": "Related collections"
+  },
+  "curatedBy": { "message": "Curated by {userName}" }
+}

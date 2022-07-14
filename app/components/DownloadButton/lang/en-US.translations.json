@@ -1,0 +1,13 @@
+{
+  "button_title": {
+    "message": "Download photo",
+    "description": "For accessibility, we set a title attribute on the button element that is shown when hovering over it"
+  },
+  "originalSize": {
+    "message": "Original Size"
+  },
+  "small": { "message": "Small" },
+  "medium": { "message": "Medium" },
+  "large": { "message": "Large" },
+  "downloadSize": { "message": "Choose your download size" }
+}

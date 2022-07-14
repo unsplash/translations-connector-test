@@ -1,0 +1,15 @@
+{
+  "paragraph": {
+    "message": "Beautiful, <link>free images</link> gifted by the world’s most generous community of photographers. Better than any royalty free or stock photos.",
+    "backend": "tsx"
+  },
+  "productLabel": {
+    "message": "Product"
+  },
+  "popularLabel": {
+    "message": "Popular"
+  },
+  "wallpaperLabel": {
+    "message": "Wallpapers"
+  }
+}

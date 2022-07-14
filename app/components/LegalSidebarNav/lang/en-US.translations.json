@@ -1,0 +1,6 @@
+{
+  "license": { "message": "License" },
+  "privacyPolicy": { "message": "Privacy Policy" },
+  "termsConditions": { "message": "Terms & Conditions" },
+  "apiTerms": { "message": "API Terms" }
+}

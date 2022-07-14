@@ -1,0 +1,13 @@
+{
+  "titleCreateNewCollection": { "message": "Create new collection" },
+  "titleEditCollection": { "message": "Edit collection" },
+  "errorCreatingCollection": { "message": "There was an error creating the collection." },
+  "titlePlaceholder": { "message": "Lovely Care Bears" },
+  "nameGroupLabel": { "message": "Name" },
+  "privateTooltip": { "message": "This collection will only be accessible through a direct link." },
+  "privateLabel": { "message": "Make collection private" },
+  "descriptionLabel": {
+    "message": "Description<secondaryLabel> (optional)</secondaryLabel>",
+    "backend": "tsx"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "downloadButtonLoggedIn": { "message": "Download" },
+  "downloadButtonLoggedOut": { "message": "Download free" }
+}

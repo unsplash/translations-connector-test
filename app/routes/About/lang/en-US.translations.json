@@ -1,0 +1,81 @@
+{
+  "headTagsTitle": { "message": "Join Unsplash: Beautiful, free photos" },
+  "headTagsDescription": {
+    "message": "Over 1,000,000 free (do whatever you want) high-resolution photos brought to you by the world’s most generous community of photographers."
+  },
+  "unsplashPhotosImgAlt": {
+    "message": "Unsplash photos"
+  },
+  "unsplashPhotographersImgAlt": {
+    "message": "Unsplash photographers"
+  },
+  "startBrowsingLinkLabel": {
+    "message": "Start browsing"
+  },
+  "becomeAContributorLinkLabel": {
+    "message": "Become a contributor"
+  },
+  "findThePerfectImageLinkLabel": {
+    "message": "Find the perfect image"
+  },
+  "learnMoreAboutTheUnsplashLicenseLinkLabel": {
+    "message": "Learn more about the Unsplash License"
+  },
+  "joinTheCommunityLinkLabel": {
+    "message": "Join the community"
+  },
+  "photosForEveryone": {
+    "message": "Photos for everyone"
+  },
+  "disclaimer": {
+    "message": "Over 3 million free high-resolution images brought to you by the world’s most generous community of photographers."
+  },
+  "threeImagesContainerTitle": {
+    "message": "Unsplash is internet’s source of freely usable images."
+  },
+  "threeImagesFirstImageTitle": {
+    "message": "Over three million curated photos"
+  },
+  "threeImagesFirstImageContent": {
+    "message": "We hand-select every photo and accept only the best, so that no matter what you need—you’ll find exactly what you’re looking for on Unsplash."
+  },
+  "threeImagesSecondImageTitle": {
+    "message": "A community of {total, number} photographers"
+  },
+  "threeImagesSecondImageContent": {
+    "message": "Unsplash is home to a growing community of photographers—from hobbyists, professionals, emerging brands and everyone in between."
+  },
+  "threeImagesThirdImageTitle": {
+    "message": "Fuelling your favourite platforms"
+  },
+  "threeImagesThirdImageContent": {
+    "message": "With partners like BuzzFeed, Squarespace and Trello being powered by our API, the Unsplash library is more widely accessible than ever."
+  },
+  "makeSomethingAwesome": {
+    "message": "Make something awesome"
+  },
+  "contentLeftCopy": {
+    "message": "Unsplash was born from the pain we had in finding great, usable imagery. And we weren’t alone. Which is why, today—millions of creators from around the world have downloaded over 4 billion Unsplash images to create presentations, artwork, mockups, and more."
+  },
+  "itsReallyFree": {
+    "message": "Is it really free? Yes."
+  },
+  "itsReallyFreeCopy": {
+    "message": "Unsplash is a platform powered by an amazing community that has gifted hundreds of thousands of their own photos to fuel creativity around the world. So sign up for free, or don’t. Either way, you’ve got access to over 3 million photos under the Unsplash license—which makes them free to do-whatever-you-want with."
+  },
+  "anyoneCanJoin": {
+    "message": "Anyone can join the Unsplash community"
+  },
+  "anyoneCanJoinCopy": {
+    "message": "You don’t need to know someone, or have an agent, or have a name to contribute to Unsplash. We’re the place where creators meet their audience, where individuals become a community and where anyone can become a source for creativity. So whether you’re new to photography or consider yourself a pro—your images are welcome here."
+  },
+  "poweringInternetVisuals": {
+    "message": "Powering the internet’s visuals"
+  },
+  "poweringInternetVisualsCopy": {
+    "message": "How we started? The concept was simple. Unsplash was born from the pain we had in finding great, usable imagery. Today, Unsplash is a platform fuelled by a community who give their work for free in support of the creatives everywhere. Without them, none of this would be possible."
+  },
+  "signUpFree": {
+    "message": "Sign up for free"
+  }
+}

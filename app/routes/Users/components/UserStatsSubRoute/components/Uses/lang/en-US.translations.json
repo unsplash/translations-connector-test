@@ -1,0 +1,24 @@
+{
+  "loadMore": {
+    "message": "Load more"
+  },
+  "retry": {
+    "message": "Try again"
+  },
+  "numberOfUses": {
+    "message": "{numberOfUses, plural, one {# use} other {# uses}}"
+  },
+  "unverifiedUse": {
+    "message": "Used on <appName></appName>",
+    "backend": "tsx"
+  },
+  "loadUsesFailure": {
+    "message": "Error trying to load uses: {error}"
+  },
+  "loadStatsFailure": {
+    "message": "We’re having trouble loading your stats."
+  },
+  "empty": {
+    "message": "Nothing to report so far."
+  }
+}

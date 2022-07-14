@@ -1,0 +1,16 @@
+{
+  "endNote": {
+    "message": "We’ve got big plans for the future of Unsplash. If you want to help us create it, we’d love to <link>hear from you</link>.",
+    "backend": "tsx"
+  },
+  "thankYouNote": {
+    "message": "We owe a huge thank you to the selfless Unsplash contributors who give their work for free in support of the community. Without them, none of this would be possible."
+  },
+  "withLoveNote": {
+    "message": "<firstContainer>{heartEmoji} With love,</firstContainer><secondContainer>Unsplash Team</secondContainer>",
+    "backend": "tsx"
+  },
+  "unsplashLinkTitle": {
+    "message": "Unsplash on Twitter"
+  }
+}

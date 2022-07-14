@@ -1,0 +1,48 @@
+{
+  "mobileLayoutTitle": { "message": "Message" },
+  "legalQuestionsListItem": {
+    "message": "For legal questions, see <link>the license</link>",
+    "backend": "tsx"
+  },
+  "title": {
+    "message": "Message {firstName}",
+    "description": "\"Message\" here is a verb."
+  },
+  "sendMessageDescription": {
+    "message": "Send a message to <strong>{firstName}</strong> and receive a reply through your email.",
+    "backend": "tsx"
+  },
+  "followMessageGuidelines": {
+    "message": "Follow <a>message guidelines</a>",
+    "backend": "tsx"
+  },
+  "noSpam": {
+    "message": "No spam"
+  },
+  "sendMessage": {
+    "message": "Send message"
+  },
+  "writingAbout": {
+    "message": "What are you writing about"
+  },
+
+  "subjectText": {
+    "message": "{subject, select, hire {Hiring} default {Say thanks}}",
+    "description": "The subject for the message e.g. enquire to hire the photographer or to thank them."
+  },
+
+  "messageSent": {
+    "message": "Message sent to {name}"
+  },
+  "errorSendingMessage": {
+    "message": "There was an error sending the message."
+  },
+  "apiError": {
+    "message": "API error: {error}"
+  },
+  "placeholder": {
+    "message": "{subject, select, hire {Hey {name}, we’d like to hire you to shoot ___ and ___.} default {Hey {name}, I’d like to thank you for sharing your photos on Unsplash. I’ve used one of them here: ___}}"
+  },
+  "whatAreYouWritingAboutGroupLabel": { "message": "What are you writing about" },
+  "yourMessageGroupLabel": { "message": "Your message" }
+}

@@ -1,0 +1,56 @@
+{
+  "headTagsTitle": { "message": "Unsplash Awards 2021" },
+  "headTagsDescription": { "message": "Yearly celebration of the best of open photography" },
+  "unsplashCommunityName": {
+    "message": "Unsplash Community"
+  },
+  "communitySectionTitle": { "message": "Photo of 2021" },
+  "communitySectionDescription": {
+    "message": "We’ve teamed up with 10 community panelists to create a collection that represents 10 of the most impactful images on Unsplash from 2021. And now, we’d love to hear from you. Vote for the image that resonates most with you, and the one with the most votes will be selected for the Photo of 2021 Award."
+  },
+  "communitySectionCta": { "message": "View 2021 finalists" },
+  "edition2017": { "message": "2017 Edition" },
+  "edition2018": { "message": "2018 Edition" },
+  "edition2019": { "message": "2019 Edition" },
+  "edition2020": { "message": "2020 Edition" },
+  "edition": { "message": "2021 Edition" },
+  "faq": { "message": "FAQ" },
+  "title": { "message": "Unsplash Awards" },
+  "subTitle": { "message": "Celebrating the best of open photography" },
+  "openDateRange": {
+    "message": "Open {dateRange}",
+    "description": "E.g. \"Open October 1 — 31, 2022\""
+  },
+  "finalistsAnnouncedDate": {
+    "message": "Finalists announced {date, date, long}",
+    "description": "E.g. \"Finalists announced November 25, 2022\""
+  },
+  "descriptionPart1": {
+    "message": "The Unsplash Awards are a month-long celebration recognizing the powerful impact that the Unsplash community has made through their generosity and artistry. Unsplash wouldn’t exist without the thousands of contributors who freely gift their work and push creativity forward every day."
+  },
+  "descriptionPart2": {
+    "message": "From the very best of architecture & interiors, to an all-new 3D category — enter your images into 11 categories designed to showcase the best of Unsplash. We’ve also invited amazing guest judges to help select the featured images for each category."
+  },
+  "howToParticipateHeading": { "message": "How to participate" },
+  "howToParticipateListItem1": {
+    "message": "Select the category you’d like to participate in, and click <strong>Submit</strong>.",
+    "backend": "tsx"
+  },
+  "howToParticipateListItem2": {
+    "message": "You can either <strong>submit a new photo</strong> or <strong>choose a photo from your library</strong>.",
+    "backend": "tsx"
+  },
+  "howToParticipateListItem3": {
+    "message": "If choosing a photo from your library — only photos submitted after {onlyPhotosSubmittedAfter, date, long} will be eligible for this year’s Awards.",
+    "backend": "tsx"
+  },
+  "howToParticipateParagraph1": {
+    "message": "Note: All images that have been curated to the Awards topics between {awardsTopicAutomaticallySubmittedStart, date, long} and {awardsTopicAutomaticallySubmittedEnd, date, long} are automatically submitted to this year’s Awards. The number of eligible photos will be shown under the Submit button."
+  },
+  "howToParticipateParagraph2": {
+    "message": "Read more about our rules and regulations <rulesAndRegulationsLink>here</rulesAndRegulationsLink>.",
+    "backend": "tsx"
+  },
+  "judgesHeading": { "message": "Judges" },
+  "calloutContentPhotoBy": { "message": "Photo by <userLink></userLink>", "backend": "tsx" }
+}

@@ -1,0 +1,21 @@
+{
+  "headerDescription": {
+    "message": "Explore the world through topics of beautiful photos free to use under the <link>Unsplash License</link>.",
+    "backend": "tsx"
+  },
+  "topicsHeader": {
+    "message": "Topics"
+  },
+  "headTagsDescription": {
+    "message": "Discover beautiful free pictures by topic. Curated by the Unsplash community. All images are free to download and free to use."
+  },
+  "headTagsTitle": {
+    "message": "Topics"
+  },
+  "featuredSubheading": {
+    "message": "Featured"
+  },
+  "allTopicsSubHeading": {
+    "message": "All topics"
+  }
+}

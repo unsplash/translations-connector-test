@@ -1,0 +1,10 @@
+{
+  "viewCompany": {
+    "message": "See {company} on Unsplash"
+  },
+  "header": { "message": "Welcome to the most viral visual platform in the world." },
+  "paragraph": {
+    "message": "Unsplash has <strong>1 million</strong> photos seen <strong>12 billion</strong> times by <strong>200 million</strong> people every month. Brands like Google, Timberland and Square have benefitted from our <strong>invite-only</strong> ad platform, and so could you.",
+    "backend": "tsx"
+  }
+}

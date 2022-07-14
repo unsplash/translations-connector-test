@@ -1,0 +1,25 @@
+{
+  "edit": {
+    "message": "Edit"
+  },
+  "numberOfPhotos": {
+    "message": "{numberOfPhotosFormatted} {numberOfPhotos, plural, one {photo} other {photos}}",
+    "description": "Number of photos e.g. \"1 photo\" or \"2k photos\""
+  },
+  "privateDisclaimer": {
+    "message": "This collection is private. To share, copy the URL or make the collection public."
+  },
+  "collectionByUser": {
+    "message": "Collection by {username}"
+  },
+  "headTagsTitlePart2WithTags": {
+    "message": "{type, select, overLimit {{upperLimit, number}+} belowLimit {{photoTotal, number}}} best free {tags} photos on Unsplash"
+  },
+  "headTagsTitlePart2": {
+    "message": "{type, select, overLimit {{upperLimit, number}+} belowLimit {{photoTotal, number}}} best free photos on Unsplash"
+  },
+
+  "headTagsDescription": {
+    "message": "See the best {totalPhotos, number} free high-resolution photos of {title} selected by {userFullName}. These HD images are free to use for commercial projects."
+  }
+}

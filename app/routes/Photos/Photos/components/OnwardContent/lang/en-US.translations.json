@@ -1,0 +1,12 @@
+{
+  "affiliatesTitle": {
+    "message": "Browse premium related images on iStock"
+  },
+  "affiliatesSubtitle": {
+    "message": "Save 20% with code UNSPLASH20"
+  },
+  "relatedTags": { "message": "Related tags" },
+  "relatedCollections": { "message": "Related collections" },
+  "featuredIn": { "message": "Featured in" },
+  "pageTitleFreePictures": { "message": "Free pictures" }
+}

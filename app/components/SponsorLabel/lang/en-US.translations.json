@@ -1,0 +1,10 @@
+{
+  "sponsored_label": {
+    "message": "Sponsored",
+    "description": "Label we show when a given photo is part of a native ad campaign"
+  },
+  "collaboration_label": {
+    "message": "Collaboration with",
+    "description": "Label we show when a given photo is part of a native ad campaign and is a collaboration with a photographer"
+  }
+}

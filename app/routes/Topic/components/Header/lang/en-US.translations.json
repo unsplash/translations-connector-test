@@ -1,0 +1,29 @@
+{
+  "curatedBy": {
+    "message": "Curated by <curators></curators>",
+    "backend": "tsx"
+  },
+  "contributionsOpenWithDate": {
+    "message": "Contributions open on <date></date>.",
+    "description": "Absolute date format",
+    "backend": "tsx"
+  },
+  "contributionsOpenUntilDate": {
+    "message": "Open to contributions until <date></date>.",
+    "description": "Absolute date format",
+    "backend": "tsx"
+  },
+  "contributionsClosedOnDate": {
+    "message": "Contributions closed on <date></date>.",
+    "description": "Absolute date format",
+    "backend": "tsx"
+  },
+  "date": {
+    "message": "{date} at {time}{isUTC, boolean, true { (UTC)} false {}}",
+    "description": "E.g. \"March 5, 2020 at 11:59 PM\""
+  },
+  "genericTopicLabel": {
+    "message": "topic",
+    "description": "This is used when the current topic hasn't loaded yet so we don't have the name. Used in the following sentence: 'Submit to topic'"
+  }
+}

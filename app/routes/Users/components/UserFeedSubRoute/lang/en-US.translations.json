@@ -1,0 +1,21 @@
+{
+  "headTagsTitleLikes": { "message": "{name}'s Likes" },
+  "headTagsTitleCollections": { "message": "{name}'s Collections" },
+  "headTagsTitleSuffix": { "message": "Unsplash Photo Community" },
+  "headTagsDescriptionLikesGreaterThan1": {
+    "message": "See {photoCount, number} of the best free to download photos curated by {name} on Unsplash."
+  },
+  "headTagsDescriptionLikesLessThan2": {
+    "message": "See the best free to download photos curated by {name} on Unsplash."
+  },
+  "headTagsDescriptionCollections": {
+    "message": "See {collectionsCount, number} of the best free to download images curated by {name} on Unsplash."
+  },
+  "headTagsDescriptionPhotosGreaterThan1": {
+    "message": "See {photoCount, number} of the best free to download photos, images, and wallpapers by {name} on Unsplash."
+  },
+  "headTagsDescriptionPhotosLessThan2": {
+    "message": "See the best free to download photos, images, and wallpapers by {name} on Unsplash."
+  },
+  "tagHeadingTitle": { "message": "{firstName}'s work appears in the following categories" }
+}

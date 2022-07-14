@@ -1,0 +1,6 @@
+{
+  "numberOfPhotos": {
+    "message": "Submitting <strong>{numberOfPhotos, number}</strong> {numberOfPhotos, plural, one {photo} other {photos}}",
+    "backend": "tsx"
+  }
+}

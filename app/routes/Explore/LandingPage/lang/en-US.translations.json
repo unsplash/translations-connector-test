@@ -1,0 +1,15 @@
+{
+  "affiliatesTitle": {
+    "message": "Browse premium images on iStock"
+  },
+  "affiliatesTitleSuffix": {
+    "message": "20% off at iStock"
+  },
+  "popularCategories": { "message": "Popular categories" },
+  "pageTitlePublicDomainImages": { "message": "Public domain images" },
+  "pageTitleFreeStockPhotos": { "message": "Free stock photos" },
+  "pageTitleCreativeCommonsImages": { "message": "Creative Commons images" },
+  "pageTitleFreeImages": { "message": "Free images" },
+  "pageTitleHdWallpapers": { "message": "HD Wallpapers" },
+  "pageTitleBackgrounds": { "message": "Backgrounds" }
+}

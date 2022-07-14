@@ -1,0 +1,20 @@
+{
+  "youveUploadedATon": {
+    "message": "You’ve uploaded a ton of amazing photos lately. You deserve a break"
+  },
+  "addUpToRemainingfilecount": {
+    "message": "Add up to {remainingFileCount, number} more photos"
+  },
+  "addYourPhotosHere": { "message": "Add your photos here" },
+  "addUpToRemainingfilecountMoreImages": {
+    "message": "Add up to {remainingFileCount, number} more image"
+  },
+  "dragAndDrop": {
+    "message": "Drag and drop up to {remainingFileCount, number} images or <browse>Browse</browse> to choose a file",
+    "backend": "tsx"
+  },
+  "uploadsRemaining": {
+    "message": " {remainingFileCount, number} uploads remaining. <a>What's this?</a>",
+    "backend": "tsx"
+  }
+}

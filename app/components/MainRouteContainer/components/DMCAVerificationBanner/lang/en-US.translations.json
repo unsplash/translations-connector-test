@@ -1,0 +1,10 @@
+{
+  "DMCARequestedMessage": {
+    "message": "Your recent submissions triggered a DMCA request and require additional account information to be approved <container><localizedLink>Complete DMCA form</localizedLink> or <link>See more information</link></container>",
+    "backend": "tsx"
+  },
+  "DMCAPendingReviewMessage": {
+    "message": "Your DMCA verification is being reviewed. <link>See more information</link>",
+    "backend": "tsx"
+  }
+}

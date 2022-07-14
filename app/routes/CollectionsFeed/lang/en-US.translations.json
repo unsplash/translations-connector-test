@@ -1,0 +1,20 @@
+{
+  "headerTitle": {
+    "message": "Collections"
+  },
+  "seoHeaderSubtitle": {
+    "message": "Beautiful, free pictures of the week."
+  },
+  "seoHeaderBody": {
+    "message": "Explore the world through collections of beautiful HD pictures free to use under the <link>Unsplash License</link>.",
+    "backend": "tsx"
+  },
+  "pageHeaderBody": {
+    "message": "Explore the world through collections of beautiful photos free to use under the <link>Unsplash License</link>.",
+    "backend": "tsx"
+  },
+  "headTagsTitle": { "message": "Beautiful Pictures of the Week" },
+  "headTagsDescription": {
+    "message": "Discover the most beautiful free pictures and images of the week curated by the Unsplash community. All images are free to download and free to use."
+  }
+}

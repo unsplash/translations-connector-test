@@ -1,0 +1,16 @@
+{
+  "title": {
+    "message": "Delete photo"
+  },
+  "body": {
+    "message": "When a photo is deleted from Unsplash, we will do everything we can to prevent its further distribution, including preventing it from being viewed and downloaded through Unsplash. However, the <link>Unsplash License</link> is irrevocable, so copies of the photo that were downloaded before deletion may still be used.",
+    "backend": "tsx"
+  },
+  "buttonText": {
+    "message": "I’d like to delete this photo"
+  },
+  "showOnProfileHelperText": {
+    "message": "By default, photos appear on your profile. You can hide a photo from your profile while remaining in searches by unchecking this box."
+  },
+  "showOnProfileLabel": { "message": "Show on profile" }
+}

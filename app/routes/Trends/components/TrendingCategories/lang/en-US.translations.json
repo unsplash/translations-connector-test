@@ -1,0 +1,7 @@
+{
+  "keyword": { "message": "Keyword" },
+  "growth": { "message": "Growth" },
+  "searchViews": { "message": "Search views" },
+  "results": { "message": "Results" },
+  "demand": { "message": "Demand" }
+}

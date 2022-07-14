@@ -1,0 +1,20 @@
+{
+  "trendingLabel": {
+    "message": "Trending:"
+  },
+  "flowerSearchSuggestion": {
+    "message": "Flower"
+  },
+  "wallpaperSearchSuggestion": {
+    "message": "Wallpapers"
+  },
+  "backgroundsSearchSuggestion": {
+    "message": "Backgrounds"
+  },
+  "happySearchSuggestion": {
+    "message": "Happy"
+  },
+  "loveSearchSuggestion": {
+    "message": "Love"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "headTagsTitlePart1": { "message": "Brand Safety" },
+  "headTagsTitlePart2": { "message": "Unsplash for Brands" },
+  "headTagsDescription": { "message": "Your brand across the internet." },
+  "headingLabel": {
+    "message": "Brand Safety"
+  },
+  "heading": {
+    "message": "Your brand is safe on Unsplash"
+  },
+  "mainCopy": {
+    "message": "Unsplash offers several brand safety controls for preventing your ads from misuse, including, running alongside certain types of content within Unsplash and the Unsplash Partner Network. You can use these in combination, or on their own."
+  },
+  "section1Heading": {
+    "message": "A track record you can trust"
+  },
+  "section1Copy": {
+    "message": "It is illegal and against <link>Unsplash Terms of Service</link> for anyone to use images posted on Unsplash in a negative way.",
+    "backend": "tsx"
+  },
+  "section1Copy2": {
+    "message": "Unsplash’s terms of service, keyword targeting, human review process and integration partner policies mitigate misuse of images demonstrated by our impeccable track record — with over 6 billion brand-sponsored impressions delivered, we have had zero brand safety violation incidents."
+  },
+  "section2Heading": {
+    "message": "Get discovered on your own terms"
+  },
+  "section2Copy": {
+    "message": "Our team will work with you to create a list of approved keyword search terms that your brand images will be associated with. It is not possible for your content to be placed in searches for keywords that have not been pre-approved."
+  },
+  "section3Heading": {
+    "message": "On-demand performance reporting"
+  },
+  "section3Copy": {
+    "message": "We provide access to real-time reporting on photo downloads, top placements, and impressions. All partners have the option to partner with third-party measurement providers (Kantar Millward Brown, Nielsen, etc.). Upon request, Unsplash will provide any required campaign inputs for clients Marketing Mix Model analyses."
+  },
+  "overviewHeading": {
+    "message": "Brand Safety Overview"
+  },
+  "overviewSection1Heading": {
+    "message": "Partner network"
+  },
+  "overviewSection1Copy": {
+    "message": "Only apps, websites and platforms that comply with our policies are accepted into the Unsplash Partner Network."
+  },
+  "overviewSection2Heading": {
+    "message": "Keyword associations"
+  },
+  "overviewSection2Copy": {
+    "message": "Specify exactly where your images can be found by working with our team to create a list of approved keywords."
+  },
+  "overviewSection3Heading": {
+    "message": "Third party verification"
+  },
+  "overviewSection3Copy": {
+    "message": "Brands have the ability to place third-party tags on Unsplash.com"
+  },
+  "overviewSection4Heading": {
+    "message": "Human review process"
+  },
+  "overviewSection4Copy1": {
+    "message": "Unsplash campaign operations team monitors image uses. In the unlikely occurrence that a brand-sponsored image is used in a way violates Unsplash Terms of Service, our legal team will have the image removed."
+  },
+  "overviewSection4Copy2": {
+    "message": "We also enforce standards for the content individuals share on Unsplash. Each image goes through Human Review Process to ensure that each approved visual complies with our policies and standards."
+  }
+}

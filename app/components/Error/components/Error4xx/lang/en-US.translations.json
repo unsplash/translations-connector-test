@@ -1,0 +1,11 @@
+{
+  "mainMessageNotFound": {
+    "message": "Hmm, the page you were looking for doesn’t seem to exist anymore."
+  },
+  "mainMessageOther": { "message": "Yikes, it seems we could not show you this page." },
+  "backLink": { "message": "Back to Unsplash" },
+  "heading404": { "message": "Page not found" },
+  "headingGeneric": { "message": "Error occurred" },
+  "headTagsTitleNotFound": { "message": "Page not found" },
+  "headTagsTitleUnexpectedError": { "message": "Unexpected error" }
+}

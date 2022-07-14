@@ -1,0 +1,6 @@
+{
+  "available_for_hire_label": {
+    "message": "Available for hire",
+    "description": "When a given user is available for hire, we show this label"
+  }
+}

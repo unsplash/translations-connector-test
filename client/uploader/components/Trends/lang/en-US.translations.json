@@ -1,0 +1,14 @@
+{
+  "visitForMoreInsights": {
+    "message": "Visit <link></link> for more insights.",
+    "backend": "tsx"
+  },
+  "mostInDemandOnUnsplash": { "message": "Most in demand on Unsplash" },
+  "theFollowingTrendsHaveHadTheHighestIncrease": {
+    "message": "The following trends have had the highest increase in search frequency over the last 30 days on Unsplash."
+  },
+  "startUploading": { "message": "Start uploading" },
+  "errorWhilstFetchingTrendingCategories": {
+    "message": "Error whilst fetching trending categories: {error}"
+  }
+}

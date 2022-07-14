@@ -1,0 +1,6 @@
+{
+  "retry": { "message": "Retry" },
+  "errorWithSomeOfYourFile": {
+    "message": "There was an error with some of your files."
+  }
+}

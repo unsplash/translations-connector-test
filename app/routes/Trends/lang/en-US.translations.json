@@ -1,0 +1,19 @@
+{
+  "headTagsTitleWithoutKeyword": { "message": "Search Trends" },
+  "headTagsTitleWithKeyword": {
+    "message": "{keyword} Search Trends",
+    "description": "E.g. \"dog Search Trends\""
+  },
+  "breadcrumb": { "message": "Explore Trends" },
+  "trends": { "message": "Trends" },
+  "trending": { "message": "Trending" },
+  "mostInDemand": { "message": "Most in demand" },
+  "search": { "message": "Search Unsplash" },
+  "inputPlaceholder": { "message": "Enter a search term" },
+  "loadMore": { "message": "Load more" },
+  "loadFailure": { "message": "We're having trouble loading the data." },
+  "subheader": {
+    "message": "Find out which keywords have had the highest increase in search frequency over a period of time on Unsplash."
+  },
+  "lastNDays": { "message": "Last {n, number} days" }
+}

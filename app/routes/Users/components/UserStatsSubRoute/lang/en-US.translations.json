@@ -1,0 +1,70 @@
+{
+  "headTagsTitle": { "message": "My Stats" },
+  "headTagsDescription": {
+    "message": "See your photos' statistics and trends on Unsplash."
+  },
+  "milestoneFirstPhoto": {
+    "message": "First upload"
+  },
+  "milestoneFeaturedPhotosReached": {
+    "message": "{numberOfPhotosFormatted} featured {numberOfPhotos, plural, one {photo} other {photos}}",
+    "description": "Number of featured photos e.g. \"1 featured photo\" or \"2k featured photos\""
+  },
+  "milestoneFeaturedPhotosNotReached": {
+    "message": "Featured Photos"
+  },
+  "milestoneViewsReached": {
+    "message": "{numberOfViewsFormatted} {numberOfViews, plural, one {view} other {views}}",
+    "description": "Number of views e.g. \"1 view\" or \"2k views\""
+  },
+  "milestoneViewsNotReached": {
+    "message": "Views"
+  },
+  "milestoneDownloadsReached": {
+    "message": "{numberOfDownloadsFormatted} {numberOfDownloads, plural, one {download} other {downloads}}",
+    "description": "Number of downloads e.g. \"1 download\" or \"2k downloads\""
+  },
+  "milestoneDownloadsNotReached": {
+    "message": "Downloads"
+  },
+  "milestoneDateRelative": {
+    "message": "Achieved <date></date>",
+    "backend": "tsx"
+  },
+  "milestoneDateAbsolute": {
+    "message": "Achieved on <date></date>",
+    "backend": "tsx"
+  },
+  "uploadDateRelative": {
+    "message": "Uploaded <date></date>",
+    "backend": "tsx"
+  },
+  "uploadDateAbsolute": {
+    "message": "Uploaded on <date></date>",
+    "backend": "tsx"
+  },
+  "uploadGetStarted": {
+    "message": "Upload your first photo"
+  },
+  "milestoneLoadFailure": {
+    "message": "We’re having trouble loading your milestones."
+  },
+  "failureAssuagement": {
+    "message": "Our team has been notified."
+  },
+  "photoUsesLimited": {
+    "message": "Photo uses are limited to select websites for the moment."
+  },
+  "headingInsights": {
+    "message": "Insights"
+  },
+  "headingUses": {
+    "message": "Uses"
+  },
+  "headingMilestones": {
+    "message": "Your milestones"
+  },
+  "headingPhotos": {
+    "message": "Your photos"
+  }
+}

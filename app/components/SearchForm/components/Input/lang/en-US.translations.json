@@ -1,0 +1,9 @@
+{
+  "clear": {
+    "message": "Clear"
+  },
+  "recentSearches": { "message": "Recent Searches" },
+  "trendingSearches": { "message": "Trending Searches" },
+  "trendingCollections": { "message": "Trending Collections" },
+  "trendingTopics": { "message": "Trending Topics" }
+}

@@ -1,0 +1,11 @@
+{
+  "follow_button_title_following": {
+    "message": "Following",
+    "description": "For accessibility, we set a title attribute on the button element that is shown when hovering over it"
+  },
+  "follow_button_title_not_following": {
+    "message": "Follow",
+    "description": "For accessibility, we set a title attribute on the button element that is shown when hovering over it"
+  },
+  "errorFollowingTheUser": { "message": "There was an error following the user." }
+}

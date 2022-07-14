@@ -1,0 +1,30 @@
+{
+  "errorDeletingPhoto": { "message": "There was an error deleting the photo." },
+  "confirmDelete": { "message": "Are you sure you want to delete your photo?" },
+  "errorUpdatingPhoto": { "message": "There was an error updating the photo." },
+  "photoUpdated": { "message": "Photo updated." },
+  "descriptionPlaceholder": { "message": "A good description makes a photo more discoverable." },
+  "descriptionGroupLabel": { "message": "Description" },
+  "locationGroupLabel": { "message": "Location" },
+  "cameraMake": { "message": "Camera Make" },
+  "cameraModel": { "message": "Camera Model" },
+  "focalLength": { "message": "Focal Length (mm)" },
+  "aperture": { "message": "Aperture (ƒ)" },
+  "iso": { "message": "ISO" },
+  "shutterSpeed": { "message": "Shutter Speed (s)" },
+  "tagsInputLabel": {
+    "message": "Tags"
+  },
+  "cancelButtonLabel": {
+    "message": "Cancel"
+  },
+  "savingButtonLabel": {
+    "message": "Saving…"
+  },
+  "updateInfoButtonLabel": {
+    "message": "Update info"
+  },
+  "locationInputDefaultValue": {
+    "message": "Add a place or a city"
+  }
+}

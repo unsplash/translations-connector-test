@@ -1,0 +1,14 @@
+{
+  "retry": {
+    "message": "Try again"
+  },
+  "noHighlightsPlaceholder": {
+    "message": "Important news, product updates, and milestones associated with your account will appear here."
+  },
+  "noActivityPlaceholder": {
+    "message": "Activity associated with your account will appear here."
+  },
+  "errorLoadingNotifications": {
+    "message": "Error trying to load notifications: {apiError}"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "photoSubnavLink": {
+    "message": "Photos",
+    "description": "Search subnav item label for photos (followed by a number)"
+  },
+  "collectionsSubnavLink": {
+    "message": "Collections",
+    "description": "Search subnav item label for collections (followed by a number)"
+  },
+  "usersSubnavLink": {
+    "message": "Users",
+    "description": "Search subnav item label for users (followed by a number)"
+  }
+}

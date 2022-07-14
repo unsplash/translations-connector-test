@@ -1,0 +1,39 @@
+{
+  "title": { "message": "License" },
+  "headTagsTitle": { "message": "License" },
+  "headTagsDescription": {
+    "message": "All photos published on Unsplash can be used for free. You can use them for commercial and noncommercial purposes. You do not need to ask permission from or provide credit to the photographer or Unsplash, although it is appreciated when possible."
+  },
+  "text1Paragraph": {
+    "message": "Unsplash photos are made to be used freely. Our license reflects that."
+  },
+  "text2ListItem": {
+    "message": "All photos can be <strong>downloaded</strong> and used for <strong>free</strong>",
+    "backend": "tsx"
+  },
+  "text3ListItem": {
+    "message": "<strong>Commercial</strong> and <strong>non-commercial</strong> purposes",
+    "backend": "tsx"
+  },
+  "text4ListItem": {
+    "message": "<strong>No permission needed</strong> (though attribution is appreciated!)",
+    "backend": "tsx"
+  },
+  "text5Heading": { "message": "What is not permitted {thumbsDownEmoji}" },
+  "text6ListItem": {
+    "message": "Photos cannot be <strong>sold</strong> without significant modification.",
+    "backend": "tsx"
+  },
+  "text7ListItem": {
+    "message": "Compiling photos from Unsplash to replicate a similar or competing service."
+  },
+  "text8Heading": { "message": "Tip: How to give attribution {pencilEmoji}" },
+  "text9Paragraph": {
+    "message": "Even though attribution isn’t required, Unsplash photographers appreciate it as it provides exposure to their work and encourages them to continue sharing."
+  },
+  "text10Paragraph": {
+    "message": "Photo by <photoLink>Jeremy Bishop</photoLink> on <rootLink>Unsplash</rootLink>",
+    "backend": "tsx"
+  },
+  "text11Heading": { "message": "Longform" }
+}
