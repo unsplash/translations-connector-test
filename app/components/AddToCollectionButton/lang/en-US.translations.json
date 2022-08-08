@@ -1,6 +1,6 @@
 {
   "button_title": {
     "message": "Add to collection",
-    "description": "For accessibility, we set a title attribute on the button element that is shown when hovering over it"
+    "description": "For accessibility, we set a title attribute on the button element that is shown when hovering over it."
   }
 }
