@@ -1,11 +1,23 @@
 {
-  "loginMessageLike": { "message": "To like {name}'s photo, login." },
-  "loginMessageAddToCollection": { "message": "To collect {name}'s photo, login." },
-  "loginMessageFollow": { "message": "To follow {name}, login." },
-  "loginMessageMessage": { "message": "To send a message to {name}, login." },
-  "loginMessageSubmitAPhoto": { "message": "To submit a photo, login." },
-  "loginMessageReport": {
-    "message": "To report this {contentType, select, Collection {collection} Photo {photo} User {user}}, login."
+  "loginMessageLike": {
+    "message": "解解かか 天天牙牙逸逸にに {name}'問問 のの」」かか決決かか、 天天かか颉颉牙牙めめ。"
   },
-  "loginMessageDefault": { "message": "Welcome back Neeraj." }
+  "loginMessageAddToCollection": {
+    "message": "解解かか 医医かか天天天天にに医医決決 {name}'問問 のの」」かか決決かか、 天天かか颉颉牙牙めめ。"
+  },
+  "loginMessageFollow": {
+    "message": "解解かか 頡頡かか天天天天かかてて {name}、 天天かか颉颉牙牙めめ。"
+  },
+  "loginMessageMessage": {
+    "message": "解解かか 問問ににめめ会会 葉葉 ををにに問問問問葉葉颉颉にに 決決かか {name}、 天天かか颉颉牙牙めめ。"
+  },
+  "loginMessageSubmitAPhoto": {
+    "message": "解解かか 問問なな転転をを牙牙決決 葉葉 のの」」かか決決かか、 天天かか颉颉牙牙めめ。"
+  },
+  "loginMessageReport": {
+    "message": "解解かか 継継ににののかか継継決決 決決」」牙牙問問 {contentType, select, Collection {医医かか天天天天にに医医決決牙牙かかめめ} Photo {のの」」かか決決かか} User {なな問問にに継継}}、 天天かか颉颉牙牙めめ。"
+  },
+  "loginMessageDefault": {
+    "message": "ししにに天天医医かかををにに 転転葉葉医医逸逸 認認にににに継継葉葉はは。"
+  }
 }
