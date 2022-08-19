@@ -1,0 +1,1 @@
+{"changeOrResendConfirmation":{"message":"<link>Change email</link> or <button>Resend confirmation</button>","backend":"tsx","description":null},"emailNotConfirmed":{"message":"Your email <userEmail></userEmail> has not been confirmed. ","backend":"tsx","description":null}}

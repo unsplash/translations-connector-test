@@ -1,0 +1,1 @@
+{"customSuggestion":{"message":"Add “{value}”","backend":"ts","description":"E.g. \"Add “{My Custom Location}”\""},"inputPlaceholder":{"message":"Add a place or a city","backend":"ts","description":null},"inputTitle":{"message":"Location search","backend":"ts","description":null}}

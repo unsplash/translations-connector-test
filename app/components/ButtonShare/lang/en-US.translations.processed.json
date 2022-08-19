@@ -1,0 +1,1 @@
+{"email":{"message":"Email","backend":"ts","description":null},"linkTitle":{"message":"{service, select, email {Share over email} other {Share on {service}}}","backend":"ts","description":"Used on the title attribute for accessibility. Other is for example Twitter."}}

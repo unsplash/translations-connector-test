@@ -1,0 +1,1 @@
+{"submitButtonTextWithPhotos":{"message":"{numberOfPhotos, plural, one {Submit # photo} zero {Submit # photos} two {Submit # photos} few {Submit # photos} many {Submit # photos} other {Submit # photos}}","backend":"ts","description":null},"submitToTitle":{"message":"Submit to {title}","backend":"ts","description":null}}
