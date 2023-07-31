@@ -1,5 +1,5 @@
 {
-  "loginMessageLike": { "message": "To like {name}'s photo, login." },
+  "loginMessageLike": { "message": "testTo like {name}'s photo, login." },
   "loginMessageAddToCollection": { "message": "To collect {name}'s photo, login." },
   "loginMessageFollow": { "message": "To follow {name}, login." },
   "loginMessageMessage": { "message": "To send a message to {name}, login." },
